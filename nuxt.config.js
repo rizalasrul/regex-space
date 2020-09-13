@@ -35,7 +35,7 @@ export default {
         content: 'Segala sesuatu yang ada di kepala Rizal Asrul Pambudi: tulisan, tutorial, dan pengalaman.'
       },
       { property: 'og:type', content: 'website' },
-      { property: 'og:url', content: 'https://rizalasrul.id' },
+      { property: 'og:url', content: 'https://rizalasrul.netlify.app' },
       { property: 'og:site_name', content: 'Rizal Asrul Pambudi' },
       { property: 'og:title', content: `Rizal Asrul Pambudi - What's on my mind?` },
       { property: 'og:description', content: 'Segala sesuatu yang ada di kepala Rizal Asrul Pambudi: tulisan, tutorial, dan pengalaman.' },
@@ -43,7 +43,7 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'canonical', href: 'http://local.host:3000/' },
+      { rel: 'canonical', href: 'https://rizalasrul.netlify.app' },
     ],
   },
 }
