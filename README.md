@@ -1,5 +1,7 @@
 # Regex Space
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8f21a4d-5388-4042-be79-96f9ebce64bb/deploy-status)](https://app.netlify.com/sites/rizalasrul/deploys)
+
 ## Description
 Regex Space is a service for serve my personal website
 
