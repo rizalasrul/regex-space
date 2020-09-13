@@ -137,6 +137,10 @@ export default {
         property: 'og:description',
         content: 'Terlalu mudah untuk memulai hal yang baru di era ini. Apalagi di tahun 2020 dimana sebagian besar aktifitas kita lakukan dari rumah.',
       },
+      {
+        property: 'og:image',
+        content: '/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp',
+      },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/kemampuan-yang-hampir-terlupakan-konsistensi' }],
   },
