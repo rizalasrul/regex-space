@@ -1,0 +1,42 @@
+{
+  "name": "regex-space",
+  "version": "1.0.0",
+  "description": "Personal website of Rizal Asrul Pambudi",
+  "private": true,
+  "author": {
+    "name": "Rizal Asrul Pambudi",
+    "url": "https://rizalasrul.id"
+  },
+  "keywords": [
+    "rizalasrul",
+    "Rizal Asrul Pambudi",
+    "tailwindcss",
+    "nuxt",
+    "nuxt pwa",
+    "nuxtjs",
+    "vue",
+    "vue pwa",
+    "vue ssr",
+    "vue universal",
+    "vuejs"
+  ],
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/vue-fontawesome": "^2.0.0",
+    "@tailwindcss/typography": "^0.2.0",
+    "nuxt": "^2.14.5",
+    "nuxt-fontawesome": "^0.4.0"
+  },
+  "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/tailwindcss": "^3.0.2"
+  }
+}
