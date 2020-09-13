@@ -111,13 +111,13 @@
 
 <script>
 export default {
-  name: 'ArticlePage',
+  name: 'Article01Page',
   head: {
     title: 'Kemampuan yang hampir terlupakan: Konsistensi by rizalasrul',
     meta: [
       {
         name: 'keywords',
-        content: 'about, software engineering, frontend engineer, rizal, asrul, pambudi',
+        content: 'consistency, self development, running, hydroponics, rizal, asrul, pambudi',
       },
       {
         hid: 'description',
