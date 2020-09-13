@@ -25,6 +25,9 @@ export default {
   ],
   head: {
     title: `Rizal Asrul Pambudi - What's on my mind?`,
+    htmlAttrs: {
+      lang: 'id'
+    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -40,6 +43,22 @@ export default {
       { property: 'og:title', content: `Rizal Asrul Pambudi - What's on my mind?` },
       { property: 'og:description', content: 'Segala sesuatu yang ada di kepala Rizal Asrul Pambudi: tulisan, tutorial, dan pengalaman.' },
       { property: 'og:image', content: '' },
+      {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+      {
+        name: 'twitter:site',
+        content: '@rizalasrul',
+      },
+      {
+        name: 'twitter:creator',
+        content: '@rizalasrul',
+      },
+      {
+        name: 'twitter:creator',
+        content: '@rizalasrul',
+      },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
