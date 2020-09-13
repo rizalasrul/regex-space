@@ -36,7 +36,7 @@ export default {
       },
       { property: 'og:type', content: 'website' },
       { property: 'og:url', content: 'https://rizalasrul.netlify.app' },
-      { property: 'og:site_name', content: 'Rizal Asrul Pambudi' },
+      { property: 'og:site_name', content: 'Home | Rizal Asrul Pambudi' },
       { property: 'og:title', content: `Rizal Asrul Pambudi - What's on my mind?` },
       { property: 'og:description', content: 'Segala sesuatu yang ada di kepala Rizal Asrul Pambudi: tulisan, tutorial, dan pengalaman.' },
       { property: 'og:image', content: '' },

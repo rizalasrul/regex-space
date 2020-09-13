@@ -21,5 +21,33 @@
 <script>
 export default {
   name: 'MePage',
+  head: {
+    title: 'Siapakah Rizal Asrul Pambudi?',
+    meta: [
+      {
+        name: 'keywords',
+        content: 'about, software engineering, frontend engineer, rizal, asrul, pambudi',
+      },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Rizal Asrul Pambudi adalah seorang software engineer.'
+      },
+      { property: 'og:url', content: 'https://rizalasrul.netlify.app/me' },
+      {
+        property: 'og:site_name',
+        content: 'About | Rizal Asrul Pambudi',
+      },
+      {
+        property: 'og:title',
+        content: `Siapakah Rizal Asrul Pambudi?`,
+      },
+      {
+        property: 'og:description',
+        content: 'Rizal Asrul Pambudi adalah seorang software engineer.',
+      },
+    ],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/me' }],
+  },
 };
 </script>
