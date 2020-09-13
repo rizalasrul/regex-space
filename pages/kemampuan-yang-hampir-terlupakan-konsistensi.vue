@@ -139,7 +139,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: '/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp',
+        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/kemampuan-yang-hampir-terlupakan-konsistensi' }],
