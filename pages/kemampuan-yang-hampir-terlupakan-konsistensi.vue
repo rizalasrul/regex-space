@@ -112,5 +112,33 @@
 <script>
 export default {
   name: 'ArticlePage',
+  head: {
+    title: 'Kemampuan yang hampir terlupakan: Konsistensi by rizalasrul',
+    meta: [
+      {
+        name: 'keywords',
+        content: 'about, software engineering, frontend engineer, rizal, asrul, pambudi',
+      },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Terlalu mudah untuk memulai hal yang baru di era ini. Apalagi di tahun 2020 dimana sebagian besar aktifitas kita lakukan dari rumah.'
+      },
+      { property: 'og:url', content: 'https://rizalasrul.netlify.app/kemampuan-yang-hampir-terlupakan-konsistensi' },
+      {
+        property: 'og:site_name',
+        content: 'Kemampuan yang hampir terlupakan: Konsistensi | Rizal Asrul Pambudi',
+      },
+      {
+        property: 'og:title',
+        content: `Kemampuan yang hampir terlupakan: Konsistensi by rizalasrul`,
+      },
+      {
+        property: 'og:description',
+        content: 'Terlalu mudah untuk memulai hal yang baru di era ini. Apalagi di tahun 2020 dimana sebagian besar aktifitas kita lakukan dari rumah.',
+      },
+    ],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/kemampuan-yang-hampir-terlupakan-konsistensi' }],
+  },
 };
 </script>

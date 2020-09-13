@@ -54,5 +54,33 @@
 <script>
 export default {
   name: 'NowPage',
+  head: {
+    title: 'Apa yang Dilakukan Rizal Asrul Pambudi Sekarang?',
+    meta: [
+      {
+        name: 'keywords',
+        content: 'now, software engineering, frontend engineer, rizal, asrul, pambudi',
+      },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Rizal Asrul Pambudi bekerja di Bukalapak, memiliki hobi menulis, dan terkadang juga bermain game.'
+      },
+      { property: 'og:url', content: 'https://rizalasrul.netlify.app/now' },
+      {
+        property: 'og:site_name',
+        content: '#now | Rizal Asrul Pambudi',
+      },
+      {
+        property: 'og:title',
+        content: `Apa yang Dilakukan Rizal Asrul Pambudi Sekarang?`,
+      },
+      {
+        property: 'og:description',
+        content: 'Rizal Asrul Pambudi bekerja di Bukalapak, memiliki hobi menulis, dan terkadang juga bermain game.',
+      },
+    ],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/now' }],
+  },
 };
 </script>
