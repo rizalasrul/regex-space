@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-12 py-24">
+    <div class="mx-auto pt-24 px-24 py-24">
       <center>
         <div>
           <h1 class="font-semibold text-3xl text-gray-700">Kemampuan yang hampir terlupakan: Konsistensi</h1>
@@ -14,7 +14,7 @@
       </center>
     </div>
 
-    <div class="container mx-auto pb-24 px-12">
+    <div class="container mx-auto pb-24 px-64">
       <article class="pb-12 prose prose-xl" style="max-width: none;">
         <figure>
           <img src="~/static/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp" alt="Photo by Maria Teneva on Unsplash">
@@ -28,10 +28,12 @@
         <blockquote>
           <p>Wah, banyak orang yang mulai menanam nih. Ikutan ah!</p>
         </blockquote>
-        <figure class="px-64">
-          <img src="~/static/images/blog_contains/kemampuan-yang-hampir-terlupakan-konsistensi-1.webp" alt="Menanam kangkung dengan metode wick">
-          <figcaption>Menanam kangkung dengan metode wick</figcaption>
-        </figure>
+        <center>
+          <figure>
+            <img src="~/static/images/blog_contains/kemampuan-yang-hampir-terlupakan-konsistensi-1.webp" alt="Menanam kangkung dengan metode wick">
+            <figcaption>Menanam kangkung dengan metode wick</figcaption>
+          </figure>
+        </center>
         <p>
           Tiba-tiba tiga minggu kemudian, tiga kotak tanaman kangkung sudah tumbuh secara hidroponik dengan sistem wick. Lalu tanaman tersebut mati karena ditinggal pemiliknya pulang kampung dan tidak dilanjutkan lagi.
         </p>
@@ -57,9 +59,11 @@
         <p>
           Niat saya menulis sebenarnya hanya ingin menuangkan apa yang ada dipikiran saja, sekaligus sebagai sarana saya belajar teknologi pemrograman yang baru. Dan beberapa minggu yang lalu saya sempet berhenti menulis cukup lama, mungkin sekitar 3 bulan. Lalu ada salah satu kejadian yang bikin gairah menulis saya muncul lagi.
         </p>
-        <figure class="px-64">
-          <img src="~/static/images/blog_contains/kemampuan-yang-hampir-terlupakan-konsistensi-2.webp" alt="Testimoni dari Linkedin">
-        </figure>
+        <center>
+          <figure>
+            <img src="~/static/images/blog_contains/kemampuan-yang-hampir-terlupakan-konsistensi-2.webp" alt="Testimoni dari Linkedin">
+          </figure>
+        </center>
         <p>
           Pesan tersebut masuk di akun LinkedIn saya. Hal kecil seperti ini bisa menjadikan “pecut” bagi saya untuk memulai menulis lagi. Siapa yang menyangka kalau tulisan saya ternyata menemukan audiencenya.
         </p>
@@ -77,9 +81,11 @@
         <p>
           Karena target saya 10 km, dan waktu saya 31 hari. Maka saya pakai strategi ala-ala yang tidak memberatkan saya. Saya menargetkan lari empat kali dalam sebulan, kapanpun waktunya, dengan formula jarak tempuh 1–2–3–4 (lari pertama sejauh 1 km, lari kedua sejauh 2 km, dst). Alhamdulillah bulan lalu saya mencapai target 10 km.
         </p>
-        <figure class="px-64">
-          <img src="~/static/images/blog_contains/kemampuan-yang-hampir-terlupakan-konsistensi-3.webp" alt="Screenshot dari aplikasi NRC">
-        </figure>
+        <center>
+          <figure>
+            <img src="~/static/images/blog_contains/kemampuan-yang-hampir-terlupakan-konsistensi-3.webp" alt="Screenshot dari aplikasi NRC">
+          </figure>
+        </center>
         <p>
           Bulan ini teman saya bikin tantangan lagi. Saya tambah target lari saya sejauh 15 km. Tetapi saya berencana untuk lari lebih dari itu. Istilah jawanya: <i>under promise, over deliver</i>.
         </p>

@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-12 py-24">
+    <div class="mx-auto pt-24 px-24 py-24">
       <center>
         <div>
           <h1 class="font-semibold text-3xl text-gray-700">Berkomunikasi efektif sebagai software engineer</h1>
@@ -14,7 +14,7 @@
       </center>
     </div>
 
-    <div class="container mx-auto pb-24 px-12">
+    <div class="container mx-auto pb-24 px-64">
       <article class="pb-12 prose prose-xl" style="max-width: none;">
         <figure>
           <img src="~/static/images/blog_thumbnails/berkomunikasi-efektif-sebagai-software-engineer.webp" alt="Photo from Unplash">
@@ -78,7 +78,7 @@
         <p>
           Banyak software engineer (mungkin di tingkat manager) fokus hanya pada konten saat membuat dokumentasi tertulis. Akan lebih baik jika kita juga memperhatikan bagaimana cara menyampaikan pesan, diksi yang kita pilih, hingga susunan paragraf yang membuat pembaca menjadi nyaman.
         </p>
-        <figure class="px-64">
+        <figure>
           <img src="~/static/images/blog_contains/berkomunikasi-efektif-sebagai-software-engineer-1.webp" alt="Menanam kangkung dengan metode wick">
           <figcaption>Photo by <a href="https://unsplash.com/@muay0051" target="_blank">Siriwan Arunsiriwattana</a> on <a href="https://unsplash.com/photos/gs0coXLmjdI" target="_blank">Unsplash</a></figcaption>
         </figure>

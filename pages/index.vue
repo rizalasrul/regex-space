@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-12 py-24">
+    <div class="mx-auto pt-24 px-24 py-24">
       <center>
         <div>
           <h2 class="font-semibold text-3xl text-gray-700">Tulisan</h2>
@@ -15,7 +15,7 @@
     </div>
 
     <div class="container mx-auto">
-      <div class="px-12">
+      <div class="px-64">
         <div class="flex flex-wrap">
           <rg-card-blog
             v-for="blog in blogs"

@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-12 py-24">
+    <div class="mx-auto pt-24 px-24 py-24">
       <center>
         <div>
           <h1 class="font-semibold text-3xl text-gray-700">Apa yang membuat programmer pragmatis?</h1>
@@ -14,7 +14,7 @@
       </center>
     </div>
 
-    <div class="container mx-auto pb-24 px-12">
+    <div class="container mx-auto pb-24 px-64">
       <article class="pb-12 prose prose-xl" style="max-width: none;">
         <h2>Makna pragmatic</h2>
         <p>
@@ -37,7 +37,7 @@
           Tetapi jika kita bersikap pragmatis, kita paham bahwa yang dimaksud sebenarnya adalah “Maukah kita memberikan kecap manis tersebut ke dia?”. Maka alih-alih kita menjawab “ya” atau “tidak”, maka kita langsung memberikan kecap manis itu ke orang yang bertanya tersebut.
         </p>
         <h2>So, what makes a pragmatic programmer?</h2>
-        <figure class="px-64">
+        <figure>
           <img src="~/static/images/blog_thumbnails/apa-yang-membuat-programmer-pragmatis.webp" alt="Photo by Grzegorz Walczak on Unsplash">
           <figcaption>Photo by <a href="https://unsplash.com/@grzegorzwalczak" target="_blank">Grzegorz Walczak</a> on <a href="https://unsplash.com/photos/yoIIPcrWhjI" target="_blank">Unsplash</a></figcaption>
         </figure>

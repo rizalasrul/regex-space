@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-12 py-24">
+    <div class="mx-auto pt-24 px-24 py-24">
       <center>
         <div>
           <h1 class="font-semibold text-3xl text-gray-700">What I’m doing #now</h1>
@@ -14,7 +14,7 @@
       </center>
     </div>
 
-    <div class="container mx-auto pb-24 px-12">
+    <div class="container mx-auto pb-24 px-64">
       <article class="prose prose-xl" style="max-width: none;">
         <h2>Apa pekerjaan utama saya</h2>
         <p>

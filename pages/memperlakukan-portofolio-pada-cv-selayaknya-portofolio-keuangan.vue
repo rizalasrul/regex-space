@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-12 py-24">
+    <div class="mx-auto pt-24 px-24 py-24">
       <center>
         <div>
           <h1 class="font-semibold text-3xl text-gray-700">Memperlakukan portofolio pada CV selayaknya portofolio keuangan</h1>
@@ -14,7 +14,7 @@
       </center>
     </div>
 
-    <div class="container mx-auto pb-24 px-12">
+    <div class="container mx-auto pb-24 px-64">
       <article class="pb-12 prose prose-xl" style="max-width: none;">
         <figure>
           <img src="~/static/images/blog_thumbnails/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan.webp" alt="Photo from Unplash">
@@ -32,7 +32,7 @@
           Kemampuan kita untuk mempelajari hal-hal baru adalah aset strategis terpenting kita. Pertanyaannya adalah “bagaimana cara kita belajar?” dan “bagaimana kita tahu apa yang harus dipelajari?”
         </p>
         <h2>Knowledge portfolio</h2>
-        <figure class="px-64">
+        <figure>
           <img src="~/static/images/blog_contains/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan-1.webp" alt="Menanam kangkung dengan metode wick">
           <figcaption>Photo by <a href="https://unsplash.com/@markuswinkler" target="_blank">Markus Winkler</a> on <a href="https://unsplash.com/photos/7iSEHWsxPLw" target="_blank">Unsplash</a></figcaption>
         </figure>
@@ -81,7 +81,7 @@
         <h3>Pelajari setidaknya satu bahasa baru setiap tahun</h3>
         <p>Bahasa pemrograman yang berbeda dapat memecahkan masalah yang sama dengan jalan yang berbeda. Dengan belajar berbagai macam pendekatan yang berbeda, kita dapat memperluas pemikiran kita dan menghindari terjebak dalam kebiasaan yang “itu-itu aja”. Dan sejujurnya, mempelajari bahasa pemrograman lain itu tidak sulit, Di internet banyak sekali converter online tool yang dapat digunakan sebagai pedoman. Coba saja search di google “java to ruby” atau “js to go online converter”.</p>
         <h3>Membaca technical book tiap bulan</h3>
-        <figure class="px-64">
+        <figure>
           <img src="~/static/images/blog_contains/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan-2.webp" alt="Photo by Daria Nepriakhina on Unsplash">
           <figcaption>Photo by <a href="https://unsplash.com/@epicantus" target="_blank">Daria Nepriakhina</a> on <a href="https://unsplash.com/photos/xY55bL5mZAM" target="_blank">Unsplash</a></figcaption>
         </figure>
@@ -108,7 +108,7 @@
         <p>
           Baca berita dan artikel online tentang teknologi yang berbeda dari proyek kita saat ini. Ini adalah cara yang bagus untuk mengetahui pengalaman apa yang dialami orang lain.
         </p>
-        <figure class="px-64">
+        <figure>
           <img src="~/static/images/blog_contains/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan-3.webp" alt="Photo by Daria Nepriakhina on Unsplash">
           <figcaption>Photo by <a href="https://unsplash.com/@huntersrace" target="_blank">Hunters Race</a> on <a href="https://unsplash.com/photos/MYbhN8KaaEc" target="_blank">Unsplash</a></figcaption>
         </figure>
