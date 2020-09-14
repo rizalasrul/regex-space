@@ -31,7 +31,7 @@
         <p>
           Masih menghabiskan buku yang saya mulai baca pada awal tahun ini.
         </p>
-        <figure class="px-64">
+        <figure>
           <img src="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20.jpg" alt="Buku The Pragmatic Programmer 20th Anniversary Edition">
           <figcaption>Buku The Pragmatic Programmer 20th Anniversary Edition</figcaption>
         </figure>
