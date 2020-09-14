@@ -111,9 +111,8 @@
 
 <script>
 export default {
-  name: 'Article01Page',
   head: {
-    title: 'Kemampuan yang hampir terlupakan: Konsistensi by rizalasrul',
+    title: 'Kemampuan yang hampir terlupakan: Konsistensi | Rizal Asrul Pambudi',
     meta: [
       {
         name: 'keywords',
