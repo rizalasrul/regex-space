@@ -1,21 +1,11 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-24 py-24">
-      <center>
-        <div>
-          <h2 class="font-semibold text-3xl text-gray-700">Tulisan</h2>
-          <hr class="w-2/5" style="
-            margin-top: 10px;
-            margin-bottom: 10px;
-            border: 1px solid #c3c3c3;
-            ">
-          <p class="text-gray-600 text-lg">Bringing personal experience into writing</p>
-        </div>
-      </center>
-    </div>
+    <rg-heading-content
+      title="Tulisan"
+      sub-title="Bringing personal experience into writing" />
 
     <div class="container mx-auto">
-      <div class="px-64">
+      <div class="xl:px-64">
         <div class="flex flex-wrap">
           <rg-card-blog
             v-for="blog in blogs"

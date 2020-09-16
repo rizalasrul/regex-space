@@ -1,18 +1,8 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-24 py-24">
-      <center>
-        <div>
-          <h1 class="font-semibold text-3xl text-gray-700">What I’m doing #now</h1>
-          <hr class="w-2/5" style="
-            margin-top: 10px;
-            margin-bottom: 10px;
-            border: 1px solid #c3c3c3;
-            ">
-          <p class="text-gray-600 text-lg">Halaman ini terinspirasi dari halaman <a class="text-red-600" href="https://nownownow.com/about" target="_blank">now</a>. Jika kamu punya situs sendiri, ayo buat juga.</p>
-        </div>
-      </center>
-    </div>
+    <rg-heading-content
+      title="What I’m doing #now"
+      :sub-title="`Halaman ini terinspirasi dari halaman <a class='text-red-600' href='https://nownownow.com/about' target='_blank'>now</a>. Jika kamu punya situs sendiri, ayo buat juga.`" />
 
     <div class="container mx-auto pb-24 px-64">
       <article class="prose prose-xl" style="max-width: none;">

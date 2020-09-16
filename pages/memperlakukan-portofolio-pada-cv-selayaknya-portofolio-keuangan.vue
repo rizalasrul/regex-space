@@ -1,21 +1,11 @@
 <template>
   <section>
-    <div class="mx-auto pt-24 px-24 py-24">
-      <center>
-        <div>
-          <h1 class="font-semibold text-3xl text-gray-700">Memperlakukan portofolio pada CV selayaknya portofolio keuangan</h1>
-          <hr class="w-2/5" style="
-            margin-top: 10px;
-            margin-bottom: 10px;
-            border: 1px solid #c3c3c3;
-            ">
-          <p class="text-gray-600 text-lg">15 Agustus 2020</p>
-        </div>
-      </center>
-    </div>
+    <rg-heading-content
+      title="Memperlakukan portofolio pada CV selayaknya portofolio keuangan"
+      sub-title="15 Agustus 2020" />
 
-    <div class="container mx-auto pb-24 px-64">
-      <article class="pb-12 prose prose-xl" style="max-width: none;">
+    <div class="container mx-auto XL:pb-24 pb-12 xl:px-64 px-4">
+      <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm" style="max-width: none;">
         <figure>
           <img src="~/static/images/blog_thumbnails/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan.webp" alt="Photo from Unplash">
         </figure>

@@ -1,5 +1,13 @@
 export default {
   components: true,
+  theme: {
+    screens: {
+      'sm': '320px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1280px',
+    },
+  },
   server: {
     //host: '0.0.0.0',
   },
