@@ -4,8 +4,8 @@
       title="What I’m doing #now"
       :sub-title="`Halaman ini terinspirasi dari halaman <a class='text-red-600' href='https://nownownow.com/about' target='_blank'>now</a>. Jika kamu punya situs sendiri, ayo buat juga.`" />
 
-    <div class="container mx-auto pb-24 px-64">
-      <article class="prose prose-xl" style="max-width: none;">
+    <div class="container mx-auto xl:pb-24 pb-12 xl:px-64 md:px-24 px-4">
+      <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm md:prose-lg" style="max-width: none;">
         <h2>Apa pekerjaan utama saya</h2>
         <p>
           Bekerja di Bukalapak sebagai Software Engineer, Frontend. Saya berada di tim Virtual Product yang bertanggung jawab untuk mengembangkan dan merawat produk-produk tagihan, seperti tagihan listrik pascabayar, air PDAM, kartu kredit, hingga pembayaran listrik non-taglis. Kuartal tiga lalu tim kami baru saja rilis produk BukaRumah yang bekerjasama dengan Bank Mandiri sebagai mitra penyedia properti. Jika kamu ingin mencobanya, silakan update aplikasi Bukalapaknya.

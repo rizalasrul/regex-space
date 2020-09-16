@@ -4,8 +4,8 @@
       title="Apa yang membuat programmer pragmatis?"
       sub-title="03 Februari 2020" />
 
-    <div class="container mx-auto XL:pb-24 pb-12 xl:px-64 px-4">
-      <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm" style="max-width: none;">
+    <div class="container mx-auto xl:pb-24 pb-12 xl:px-64 md:px-24 px-4">
+      <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm md:prose-lg" style="max-width: none;">
         <h2>Makna pragmatic</h2>
         <p>
           Sebelum membahas mengenai <i>pragmatic programmer</i>, kita harus mengerti apa yang dimaksud dengan pragmatic. Siapapun bisa <i>googling</i> untuk mencari tahu apa yang dimaksud dengan kata “pragmatic”. Tapi saya mencoba untuk mendemostrasikan apa yang dimaksud dengan pragmatic yang sebenarnya.

@@ -5,7 +5,7 @@
       sub-title="Bringing personal experience into writing" />
 
     <div class="container mx-auto">
-      <div class="xl:px-64">
+      <div class="xl:px-64 md:px-24">
         <div class="flex flex-wrap">
           <rg-card-blog
             v-for="blog in blogs"

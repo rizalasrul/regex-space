@@ -4,8 +4,8 @@
       title="Kemampuan yang hampir terlupakan: Konsistensi"
       sub-title="08 September 2020" />
 
-    <div class="container mx-auto XL:pb-24 pb-12 xl:px-64 px-4">
-      <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm" style="max-width: none;">
+    <div class="container mx-auto xl:pb-24 pb-12 xl:px-64 md:px-24 px-4">
+      <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm md:prose-lg" style="max-width: none;">
         <figure>
           <img src="~/static/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp" alt="Photo by Maria Teneva on Unsplash">
           <figcaption>

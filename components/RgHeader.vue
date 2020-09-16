@@ -1,12 +1,12 @@
 <template>
   <nav class="w-full relative flex flex-wrap items-center justify-between px-2 xl:py-24 py-12 navbar-expand-lg bg-red-500">
     <div class="container px-12 mx-auto flex flex-wrap items-center justify-between">
-      <div class="w-full relative flex justify-between lg:w-auto px-4 lg:static lg:block lg:justify-start">
+      <div class="w-full relative flex justify-between md:w-auto px-4 md:static md:block md:justify-start">
         <a class="text-xl font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white">
           RIZALASRUL
         </a>
         <button
-          class="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
+          class="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block md:hidden outline-none focus:outline-none"
           type="button"
           @click="toggleNavbar()">
           <font-awesome-icon :icon="['fas', 'bars']"/>
@@ -14,8 +14,8 @@
       </div>
       <div
         :class="{'hidden': !isMenuShow, 'flex': isMenuShow}"
-        class="lg:flex lg:flex-grow items-center">
-        <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
+        class="md:flex md:flex-grow items-center">
+        <ul class="flex flex-col md:flex-row list-none md:ml-auto">
           <li
             :class="{'bg-white': isMenuActivated('')}"
             class="nav-item">
