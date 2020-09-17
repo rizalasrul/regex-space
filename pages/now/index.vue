@@ -71,7 +71,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/#now.webp',
+        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/now.webp',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/now' }],
