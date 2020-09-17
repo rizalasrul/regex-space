@@ -1,5 +1,8 @@
 export default {
   components: true,
+  generate: {
+    fallback: true
+  },
   theme: {
     screens: {
       'sm': '320px',
