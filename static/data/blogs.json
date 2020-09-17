@@ -61,5 +61,12 @@
     "formated_title":"yang-patut-disyukuri-di-2019",
     "publish_date":"03 Desember 2019",
     "is_active":true
+  },
+  {
+    "id":10,
+    "title":"Mengapa tiap programmer harus mulai bloging",
+    "formated_title":"mengapa-tiap-programmer-harus-mulai-bloging",
+    "publish_date":"27 Desember 2017",
+    "is_active":true
   }
 ]
