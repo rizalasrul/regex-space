@@ -69,6 +69,10 @@ export default {
         property: 'og:description',
         content: 'Rizal Asrul Pambudi bekerja di Bukalapak, memiliki hobi menulis, dan terkadang juga bermain game.',
       },
+      {
+        property: 'og:image',
+        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/#now.webp',
+      },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/now' }],
   },

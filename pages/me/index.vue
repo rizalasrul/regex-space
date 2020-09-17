@@ -54,6 +54,11 @@ export default {
         property: 'og:description',
         content: 'Rizal Asrul Pambudi adalah seorang software engineer.',
       },
+      {
+        property: 'og:image',
+        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/about.webp',
+      },
+
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/me' }],
   },
