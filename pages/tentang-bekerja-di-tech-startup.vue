@@ -105,7 +105,7 @@ export default {
       },
       {
         property: 'og:description',
-        content: '',
+        content: 'Talenta seperti apa sih yang dicari oleh tech startup?',
       },
       {
         property: 'og:image',
