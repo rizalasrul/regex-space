@@ -60,5 +60,37 @@
 <script>
 export default {
   name: 'ErrorPage',
+  head: {
+    title: `404`,
+    meta: [
+      {
+        name: 'keywords',
+        content: 'blogs, software engineering, frontend engineer, rizal, asrul, pambudi',
+      },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Segala sesuatu yang ada di kepala Rizal Asrul Pambudi: tulisan, tutorial, dan pengalaman.'
+      },
+      { property: 'og:url', content: 'https://rizalasrul.netlify.app' },
+      {
+        property: 'og:site_name',
+        content: 'Home | Rizal Asrul Pambudi',
+      },
+      {
+        property: 'og:title',
+        content: `404`,
+      },
+      {
+        property: 'og:description',
+        content: 'Segala sesuatu yang ada di kepala Rizal Asrul Pambudi: tulisan, tutorial, dan pengalaman.',
+      },
+      {
+        property: 'og:image',
+        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/home.webp',
+      },
+    ],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app' }],
+  },
 };
 </script>
