@@ -24,10 +24,10 @@
         <h2>Knowledge portfolio</h2>
         <figure>
           <img src="~/static/images/blog_contains/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan-1.webp" alt="Menanam kangkung dengan metode wick">
-          <figcaption>Photo by <a href="https://unsplash.com/@markuswinkler" target="_blank">Markus Winkler</a> on <a href="https://unsplash.com/photos/7iSEHWsxPLw" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@markuswinkler" target="_blank" rel="noopener">Markus Winkler</a> on <a href="https://unsplash.com/photos/7iSEHWsxPLw" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
-          Seperti yang sudah saya tulis di <a href="https://medium.com/@rizalasrul/yang-patut-disyukuri-di-2019-bb1cd8c1e1bb" target="_blank">sini</a>, sejak 2019 saya sangat bersyukur bisa belajar mengenai literasi keuangan. Saya sudah mulai investasi di beberapa produk investasi seperti saham dan SBN. Saya juga sudah melakukan diversifikasi sesuai dengan tujuan keunganan saya.
+          Seperti yang sudah saya tulis di <a href="https://medium.com/@rizalasrul/yang-patut-disyukuri-di-2019-bb1cd8c1e1bb" target="_blank" rel="noopener">sini</a>, sejak 2019 saya sangat bersyukur bisa belajar mengenai literasi keuangan. Saya sudah mulai investasi di beberapa produk investasi seperti saham dan SBN. Saya juga sudah melakukan diversifikasi sesuai dengan tujuan keunganan saya.
         </p>
         <p>
           Selama saya mempraktikan itu, saya menyadari bahwa mengelola portofolio kita di CV (<i>knowledge portfolio</i>) sangat mirip dengan mengelola portofolio keuangan. Setidaknya, ini adalah beberapa prinsip dalam mengelola portofolio keuangan yang saya yakini:
@@ -73,7 +73,7 @@
         <h3>Membaca technical book tiap bulan</h3>
         <figure>
           <img src="~/static/images/blog_contains/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan-2.webp" alt="Photo by Daria Nepriakhina on Unsplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@epicantus" target="_blank">Daria Nepriakhina</a> on <a href="https://unsplash.com/photos/xY55bL5mZAM" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@epicantus" target="_blank" rel="noopener">Daria Nepriakhina</a> on <a href="https://unsplash.com/photos/xY55bL5mZAM" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Meskipun ada banyak tulisan-tulisan pendek di internet (atau stackoverflow) yang dapat diandalkan, untuk pemahaman yang mendalam kita membutuhkan buku-buku berdurasi panjang. Jelajahi penjual buku untuk buku-buku teknikal tentang topik yang sedang kita jalani. Setelah kita selesai membaca buku terkait apa yang kita sedang jalani, cobalah untuk membaca buku teknikal yang tidak terkait dengan apa yang kita sedang jalani.
@@ -100,7 +100,7 @@
         </p>
         <figure>
           <img src="~/static/images/blog_contains/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan-3.webp" alt="Photo by Daria Nepriakhina on Unsplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@huntersrace" target="_blank">Hunters Race</a> on <a href="https://unsplash.com/photos/MYbhN8KaaEc" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@huntersrace" target="_blank" rel="noopener">Hunters Race</a> on <a href="https://unsplash.com/photos/MYbhN8KaaEc" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Penting untuk terus berinvestasi. Setelah kita merasa nyaman dengan beberapa bahasa baru atau sedikit teknologi, move-on. Pelajari hal lain.

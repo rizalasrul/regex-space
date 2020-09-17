@@ -70,7 +70,7 @@
         </p>
         <figure>
           <img src="~/static/images/blog_contains/berkomunikasi-efektif-sebagai-software-engineer-1.webp" alt="Menanam kangkung dengan metode wick">
-          <figcaption>Photo by <a href="https://unsplash.com/@muay0051" target="_blank">Siriwan Arunsiriwattana</a> on <a href="https://unsplash.com/photos/gs0coXLmjdI" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@muay0051" target="_blank" rel="noopener">Siriwan Arunsiriwattana</a> on <a href="https://unsplash.com/photos/gs0coXLmjdI" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Saat ini tidak ada alasan untuk tidak menghasilkan dokumentasi yang buruk. Banyak perangkat lunak modern yang dapat menghasilkan output yang baik, terlepas apakah kita sedang menulis menggunakan markdown, atau menggunakan <i>word processor</i>. Kita hanya perlu mempelajari beberapa perintah dasar. Jika kita menggunakan word processor (Word misalnya), gunakan style sheet nya supaya konsisten. Pelajari cara mengatur header dan footer halaman. Lihat pula sampel dokumen (biasanya perusahaan sudah menyediakan ini sebagai acuan). Periksa ejaan kata supaya tidak ada yang <i>miss</i> di pembaca.

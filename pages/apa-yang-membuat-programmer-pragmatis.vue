@@ -29,7 +29,7 @@
         <h2>So, what makes a pragmatic programmer?</h2>
         <figure>
           <img src="~/static/images/blog_thumbnails/apa-yang-membuat-programmer-pragmatis.webp" alt="Photo by Grzegorz Walczak on Unsplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@grzegorzwalczak" target="_blank">Grzegorz Walczak</a> on <a href="https://unsplash.com/photos/yoIIPcrWhjI" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@grzegorzwalczak" target="_blank" rel="noopener">Grzegorz Walczak</a> on <a href="https://unsplash.com/photos/yoIIPcrWhjI" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Setiap developer itu unik. Mereka memiliki kelemahan dan kelebihan masing-masing. Mereka memiliki preferensi dan ketidaksukaan masing-masing. Seiring waktu, mereka menciptakan lingkungan pribadi mereka sendiri.

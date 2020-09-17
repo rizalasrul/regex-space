@@ -8,7 +8,7 @@
       <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm md:prose-lg" style="max-width: none;">
         <figure>
           <img src="~/static/images/blog_thumbnails/mengawali-karir-sebagai-junior-software-engineer.webp" alt="Photo from Unplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@napr0tiv" target="_blank">Vasily Koloda</a> on <a href="https://unsplash.com/photos/8CqDvPuo_kI" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@napr0tiv" target="_blank" rel="noopener">Vasily Koloda</a> on <a href="https://unsplash.com/photos/8CqDvPuo_kI" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Kamu adalah freshgradute yang baru saja lulus wisuda beberapa minggu lalu. Dua hari setelahnya, kamu mulai bergabung dengan perusahaan yang kamu idam-idamkan selama ini.
@@ -25,7 +25,7 @@
         <h2>Engineering best practice</h2>
         <figure>
           <img src="~/static/images/blog_contains/mengawali-karir-sebagai-junior-software-engineer-1.webp" alt="Photo from Unplash">
-          <figcaption>Photo by <a href="https://www.360logica.com/blog/the-importance-of-daily-stand-up-meetings-in-scrum/" target="_blank">360logica</a></figcaption>
+          <figcaption>Photo by <a href="https://www.360logica.com/blog/the-importance-of-daily-stand-up-meetings-in-scrum/" target="_blank" rel="noopener">360logica</a></figcaption>
         </figure>
         <p>
           Setiap perusahaan pasti memiliki best practice nya masing-masing. Hal pertama yang wajib kita sesuaikan adalah <i>engineering culture</i> yang ada di perusahaan tempat kita bekerja. Pertanyaan-pertanyaan seperti “apakah menulis unit test adalah sebuah kewajiban?”, “bagaimana konvensi penulisan kode yang diterapkan?”, hingga “jika terjadi emergency, langkah-langkah apa yang harus dilakukan” harus sudah jelas.

@@ -25,7 +25,7 @@
           Akhirnya di tahun ini saya punya kesempatan untuk belajar lebih dalam tentang unit testing. Sebelumnya saya sudah sempat baca, hanya saja belum ada kesempatan untuk mengimplementasikan langsung di real project.
         </p>
         <p>
-          Karena saya adalah pengguna framework Vue, maka spesifik saya belajar tentang <a href="https://jestjs.io/" target="_blank">Jest</a> sebagai testing framework, dan <a href="https://vue-test-utils.vuejs.org/" target="_blank">vue-test-utils</a> sebagai <i>testing utility library</i>.
+          Karena saya adalah pengguna framework Vue, maka spesifik saya belajar tentang <a href="https://jestjs.io/" target="_blank" rel="noopener">Jest</a> sebagai testing framework, dan <a href="https://vue-test-utils.vuejs.org/" target="_blank" rel="noopener">vue-test-utils</a> sebagai <i>testing utility library</i>.
         </p>
         <p>
           Proses belajarnya pun tergolong sangat praktikal. Saya belajar sebagian besar dari contoh proyek atau repositori yang sudah mengimplementasikan unit test. Saya “jiplak” dan sesuaikan dengan kebutuhan komponen yang saya buat. Selebihnya baru saya cari tahu sendiri dari dokumentasi untuk eksplorasi.
@@ -217,10 +217,10 @@
         </p>
         <h2>Investasi saham</h2>
         <p>
-          Salah satu hal yang beruntung saya pelajari adalah mengenai investasi. Sebenarnya sudah dari tahun 2018 saya memulai investasi di reksadana menggunakan platform <a href="https://www.bukalapak.com/bukareksa" target="_blank">BukaReksa</a>. Hanya saja di akhir tahun 2019 ini saya mulai membuka RDN (Rekening Dana Nasabah).
+          Salah satu hal yang beruntung saya pelajari adalah mengenai investasi. Sebenarnya sudah dari tahun 2018 saya memulai investasi di reksadana menggunakan platform <a href="https://www.bukalapak.com/bukareksa" target="_blank" rel="noopener">BukaReksa</a>. Hanya saja di akhir tahun 2019 ini saya mulai membuka RDN (Rekening Dana Nasabah).
         </p>
         <p>
-          Ada salah satu podcast berjudul <a href="https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww" target="_blank">30 days of lunch</a> yang akhirnya mampu menggerakkan saya. Saya merekomendasikan episode yang bersama CEO Jouska. Episode tersebut sangat mencerahkan dan membuka wawasan.
+          Ada salah satu podcast berjudul <a href="https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww" target="_blank" rel="noopener">30 days of lunch</a> yang akhirnya mampu menggerakkan saya. Saya merekomendasikan episode yang bersama CEO Jouska. Episode tersebut sangat mencerahkan dan membuka wawasan.
         </p>
         <h2>Rutin nabung reksadana</h2>
         <p>

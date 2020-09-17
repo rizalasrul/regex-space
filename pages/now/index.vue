@@ -2,7 +2,7 @@
   <section>
     <rg-heading-content
       title="What I’m doing #now"
-      :sub-title="`Halaman ini terinspirasi dari halaman <a class='text-red-600' href='https://nownownow.com/about' target='_blank'>now</a>. Jika kamu punya situs sendiri, ayo buat juga.`" />
+      :sub-title="`Halaman ini terinspirasi dari halaman <a class='text-red-600' href='https://nownownow.com/about' target='_blank' rel='noopener'>now</a>. Jika kamu punya situs sendiri, ayo buat juga.`" />
 
     <div class="container mx-auto xl:pb-24 pb-12 xl:px-64 md:px-24 px-4">
       <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm md:prose-lg" style="max-width: none;">
@@ -15,7 +15,7 @@
           Saya beberapa kali diajak untuk menjadi pembicara untuk webinar. Tahun ini sudah ada dua kali undangan untuk berbagi. Yang pertama adalah forum FGD yang diadakan oleh Prodi Teknik Informatika Politeknik Elektronika Negeri Surabaya. Dan juga pada bulan September 2020 saya diundang oleh Anak Teknik Academy untuk berbagi tentang teknologi Vue.js dalam pengembangan aplikasi berbasis website.
         </p>
         <p>
-          Saya juga sedang lanjut menulis untuk membuat tutorial mengembangkan website menggunakan Vue.js bertajuk <a href="https://medium.com/vuejs-id/yuk-belajar-vue-js-2-pengenalan-1-a1348c98dc09" target="_blank">Yuk Belajar Vue.js 2</a>. Saat ini seriesnya baru ada di medium saya. Tapi saya sudah berencana untuk membuat satu website sendiri untuk menampung semua series tersebut. Kedepannya juga saya ingin membuat beberapa series lagi terkait beberapa teknologi website yang sedang saya pelajari.
+          Saya juga sedang lanjut menulis untuk membuat tutorial mengembangkan website menggunakan Vue.js bertajuk <a href="https://medium.com/vuejs-id/yuk-belajar-vue-js-2-pengenalan-1-a1348c98dc09" target="_blank" rel="noopener">Yuk Belajar Vue.js 2</a>. Saat ini seriesnya baru ada di medium saya. Tapi saya sudah berencana untuk membuat satu website sendiri untuk menampung semua series tersebut. Kedepannya juga saya ingin membuat beberapa series lagi terkait beberapa teknologi website yang sedang saya pelajari.
         </p>
         <h2>Apa yang saya kerjakan diwaktu luang</h2>
         <p>

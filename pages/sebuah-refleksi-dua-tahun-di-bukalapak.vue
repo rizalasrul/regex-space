@@ -17,7 +17,7 @@
           Momen itu dimulai saat teman saya mengajak untuk bergabung dengan Bukalapak. Pada saat itu dia sudah bergabung sebagai mobile apps developer. Dia bercerita bagaimana hal kecil yang dia kerjakan dapat memberi dampak bagi jutaan pengguna Bukalapak.
         </p>
         <p>
-          Ketika saya memutuskan untuk meninggalkan perusahaan sebelumnya, saya mulai merapikan resume dan portofolio saya, dan mengirimkannya ke halaman <a href="https://careers.bukalapak.com/browse/Engineering" target="_blank">karirnya</a>. Tiga minggu, satu online test, serta dua wawancara yang cukup sulit, lalu <i>acceptance letter</i>, dan kemudian saya berdiri di depan pintu Bukalapak untuk memulai hari pertama dari perjalanan paling menakjubkan dari karir saya.
+          Ketika saya memutuskan untuk meninggalkan perusahaan sebelumnya, saya mulai merapikan resume dan portofolio saya, dan mengirimkannya ke halaman <a href="https://careers.bukalapak.com/browse/Engineering" target="_blank" rel="noopener">karirnya</a>. Tiga minggu, satu online test, serta dua wawancara yang cukup sulit, lalu <i>acceptance letter</i>, dan kemudian saya berdiri di depan pintu Bukalapak untuk memulai hari pertama dari perjalanan paling menakjubkan dari karir saya.
         </p>
         <p>
           Hari pertama saya gabung, saya kaget bahwa salah satu core value di Bukalapak, yaitu <b>go the extra mile</b> benar-benar diterapkan. Saya ingat ketika di hari kedua saya baru gabung, Product manager saya menugaskan untuk memperbaiki bug di halaman pembayaran iuran premi BPJS Kesehatan. Alih-alih memperbaiki bug, senior saya menyarankan untuk sekalian merewrite kode halaman tersebut dengan teknologi yang paling baru diterapkan di Bukalapak. Saya belum pernah menulis Vue dalam hidup saya. Tetapi beberapa hari kemudian setelah kode yang saya tulis sudah berfungsi di local maupun di environment staging, PM saya berkata “Sip, deploy!”. Pada awalnya saya tidak yakin, tetapi setelah rollout ke production, saya menyadari bahwa saya baru saja mempermudah jutaan pelanggan Bukalapak untuk dapat membayar premi BPJS Kesehatannya melalui platform kami dengan mudah.
@@ -68,7 +68,7 @@
         <h2>Go the Extra Mile</h2>
         <figure>
           <img src="~/static/images/blog_contains/sebuah-refleksi-dua-tahun-di-bukalapak-4.webp" alt="Photo by Bonneval Sebastien on Usplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@gentlestache" target="_blank">Bonneval Sebastien</a> on <a href="https://unsplash.com/photos/1OqbKqQ8C6I" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@gentlestache" target="_blank" rel="noopener">Bonneval Sebastien</a> on <a href="https://unsplash.com/photos/1OqbKqQ8C6I" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Proses pengembangan produk di sini menggunakan agile process dengan metode scrum. Awal-awal masuk Bukalapak, saya cukup roaming dengan bahasa dan istilah yang mereka pakai.

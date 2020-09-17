@@ -21,10 +21,10 @@
           Dan hal seperti itu memang tidak dapat dihindari. Yang bisa kita lakukan hanyalah harus menghadapinya dan bertanggung jawab.
         </p>
         <p>
-          Saya ingat beberapa bulan setelah masuk Bukalapak pernah bikin bug yang menyebabkan dampak cukup besar. Pada saat itu saya bikin fitur transaksi rutin di halaman <a href="https://www.bukalapak.com/listrik-pln/tagihan-listrik" target="_blank">tagihan listrik pascabayar</a>. Pull request sudah di tes di local ataupun staging, dan aman-aman saja. Ketika rollout ke production pun fitur tersebut berjalan sangat baik.
+          Saya ingat beberapa bulan setelah masuk Bukalapak pernah bikin bug yang menyebabkan dampak cukup besar. Pada saat itu saya bikin fitur transaksi rutin di halaman <a href="https://www.bukalapak.com/listrik-pln/tagihan-listrik" target="_blank" rel="noopener">tagihan listrik pascabayar</a>. Pull request sudah di tes di local ataupun staging, dan aman-aman saja. Ketika rollout ke production pun fitur tersebut berjalan sangat baik.
         </p>
         <p>
-          Akan tetapi bug muncul dari pembayaran <a href="http://bukalapak.com/listrik-pln/token-listrik" target="_blank">token listrik</a> yang memang berada di halaman yang sama dengan pembayaran tagihan listrik.
+          Akan tetapi bug muncul dari pembayaran <a href="http://bukalapak.com/listrik-pln/token-listrik" target="_blank" rel="noopener">token listrik</a> yang memang berada di halaman yang sama dengan pembayaran tagihan listrik.
         </p>
         <p>
           Hal itu terjadi karena ketika development, saya tidak sadar kalau modul dan kode untuk halaman pembayaran tagihan listrik pascabayar itu jadi satu dengan halaman pembayaran token listrik. Saya hanya tes fitur tagihan listrik pascabayar dan mengabaikan fitur token listrik.
@@ -40,7 +40,7 @@
           <img
             src="~/static/images/blog_contains/bagaimana-sebaiknya-menangani-emergency-di-production-1.webp"
             alt="Photo by Vicky Gu on Unsplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@vickygu" target="_blank">Vicky Gu</a> on <a href="https://unsplash.com/photos/x_HpmxR_uZo" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@vickygu" target="_blank" rel="noopener">Vicky Gu</a> on <a href="https://unsplash.com/photos/x_HpmxR_uZo" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Hal pertama yang perlu dilakukan adalah santai dan tidak tergesa-gesa.
@@ -53,7 +53,7 @@
           <img
             src="~/static/images/blog_contains/bagaimana-sebaiknya-menangani-emergency-di-production-2.webp"
             alt="Photo by Alex Kotliarskyi on Unsplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@frantic" target="_blank">Alex Kotliarskyi</a> on <a href="https://unsplash.com/photos/QBpZGqEMsKg" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@frantic" target="_blank" rel="noopener">Alex Kotliarskyi</a> on <a href="https://unsplash.com/photos/QBpZGqEMsKg" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <blockquote>
           <p>Sometimes your emergency is not really an emergency.</p>
@@ -93,7 +93,7 @@
           <img
             src="~/static/images/blog_contains/bagaimana-sebaiknya-menangani-emergency-di-production-3.webp"
             alt="Photo by Mimi Thian on Unsplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@mimithian" target="_blank">Mimi Thian</a> on Unsplash</figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@mimithian" target="_blank" rel="noopener">Mimi Thian</a> on Unsplash</figcaption>
         </figure>
         <p>
           Mendapatkan pelajaran dari situasi emergency adalah satu hal. Tetapi berbagi mengenai pengalaman yang di dapat dari emergency tersebut adalah hal lain.

@@ -62,7 +62,7 @@
           <img
             src="~/static/images/blog_contains/tentang-bekerja-di-tech-startup-1.webp"
             alt="Photo by Mimi Thian on Unsplash">
-          <figcaption>Photo by <a href="https://unsplash.com/@mimithian" target="_blank">Mimi Thian</a> on <a href="https://unsplash.com/photos/vdXMSiX-n6M" target="_blank">Unsplash</a></figcaption>
+          <figcaption>Photo by <a href="https://unsplash.com/@mimithian" target="_blank" rel="noopener">Mimi Thian</a> on <a href="https://unsplash.com/photos/vdXMSiX-n6M" target="_blank" rel="noopener">Unsplash</a></figcaption>
         </figure>
         <p>
           Pada akhirnya, bekerja dalam startup adalah bekerja dalam tim. Biasanya, keryawan startup bekerja dalam tim yang terdiri dari berbagai keahlian dan bidang yang berbeda. Oleh karena itu penting bagi kita untuk berempati satu sama lain dan menempatkan tujuan tim sebagai prioritas yang utama.

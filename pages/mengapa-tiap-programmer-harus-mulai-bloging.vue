@@ -15,7 +15,7 @@
           <figcaption>Technical writing untuk programmers</figcaption>
         </figure>
         <p>
-          Hai! Ini adalah pengalaman pertama saya untuk menulis di situs saya sendiri. Untuk permulaan, saya tidak menulis tentang hal teknis. Saya akan mencoba menulis dengan salah satu kegelisahan saya, “setiap programmer harus menulis”, atau paling tidak memiliki sebuah blog. FYI, Saya sudah menulis di personal blog saya sebelumnya di <a href="https://medium.com/@rizalasrul" target="_blank">sini</a>.
+          Hai! Ini adalah pengalaman pertama saya untuk menulis di situs saya sendiri. Untuk permulaan, saya tidak menulis tentang hal teknis. Saya akan mencoba menulis dengan salah satu kegelisahan saya, “setiap programmer harus menulis”, atau paling tidak memiliki sebuah blog. FYI, Saya sudah menulis di personal blog saya sebelumnya di <a href="https://medium.com/@rizalasrul" target="_blank" rel="noopener">sini</a>.
         </p>
         <blockquote>
           <p>Ikatlah ilmu dengan menulis (Imam Ali r.a.)</p>

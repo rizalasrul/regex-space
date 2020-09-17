@@ -9,7 +9,7 @@
         <figure>
           <img src="~/static/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp" alt="Photo by Maria Teneva on Unsplash">
           <figcaption>
-            Photo by <a href="https://unsplash.com/@miteneva" target="_blank">Maria Teneva</a> on <a href="https://unsplash.com/photos/tu06YSdoqUs" target="_blank">Unsplash</a>
+            Photo by <a href="https://unsplash.com/@miteneva" target="_blank" rel="noopener">Maria Teneva</a> on <a href="https://unsplash.com/photos/tu06YSdoqUs" target="_blank" rel="noopener">Unsplash</a>
           </figcaption>
         </figure>
         <p>
@@ -60,7 +60,7 @@
         <p>
           Saya juga berbagi tulisan pada platform tweet dengan tagar #xof48. Melalui tagar itu, seketika saya commit untuk bikin 48 tulisan dalam setahun. Meskipun saya tidak tahu di akhir tahun nanti berapa tulisan yang berhasil saya hasilkan, setidaknya saya sudah bikin target yang bisa dicapai.
         </p>
-        <p>Kalau tertarik, bisa langsung cek <a href="https://twitter.com/asrulole/status/1213878726431166465" target="_blank">thread</a> yang saya buat.</p>
+        <p>Kalau tertarik, bisa langsung cek <a href="https://twitter.com/asrulole/status/1213878726431166465" target="_blank" rel="noopener">thread</a> yang saya buat.</p>
         <h2>Kedua: Berlari</h2>
         <p>
           Sejak bulan lalu teman kantor saya menginisiasi untuk mengadakan tantangan lari. Kita bebas set target berapa saja dalam sebulan, asalkan target tersebut tercapai. Beberapa teman ada yang set 10, 15, 20, 25, hingga 100 km.
