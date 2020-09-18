@@ -1,0 +1,273 @@
+[
+  {
+    "slug":"pengenalan",
+    "label":"Pengenalan",
+    "image_thumbnail": "01.webp",
+    "isUnlock":true,
+    "isActive":true,
+    "content": "<h1>Vue.js? Apa sih?<\/h1> <p>\r\n                Jika disadur dari official websitenya, Vue adalah <em>progressive framework for building user interfaces<\/em>. Secara kerja, Vue memiliki kemiripan dengan react dan angular. Sedikit perbedaannya adalah Vue sangat kecil dengan ukuran 16KB untuk versi production, sehingga waktu load nya sangat cepat dan memiliki runtime performance yang sangat tinggi.\r\n              <\/p> <h1>Bagaimana cara menginstallnya?<\/h1> <p>Cara paling mudah dan sederhana adalah dengan menggunakan CDN.<\/p> <pre><code class=\"language-html hljs xml\"><span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">script<\/span><\/span><\/span><span class=\"hljs-tag\"> <\/span><span class=\"hljs-attr\"><span class=\"hljs-tag\"><span class=\"hljs-attr\">src<\/span><\/span><\/span><span class=\"hljs-tag\">=<\/span><span class=\"hljs-string\"><span class=\"hljs-tag\"><span class=\"hljs-string\">\"https:\/\/cdn.jsdelivr.net\/npm\/vue@2.5.13\/dist\/vue.js\"<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span><span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;\/<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">script<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span><\/code><\/pre> <p>Atau bisa juga melalui link:<\/p> <pre><code class=\"language-html hljs xml\"><span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">script<\/span><\/span><\/span><span class=\"hljs-tag\"> <\/span><span class=\"hljs-attr\"><span class=\"hljs-tag\"><span class=\"hljs-attr\">src<\/span><\/span><\/span><span class=\"hljs-tag\">=<\/span><span class=\"hljs-string\"><span class=\"hljs-tag\"><span class=\"hljs-string\">\"https:\/\/unpkg.com\/vue\"<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span><span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;\/<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">script<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span><\/code><\/pre> <p>Untuk kerangka awal HTML nya akan terlihat seperti di bawah ini.<\/p> <pre><code class=\"language-html hljs xml\"><span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">html<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span>\r\n\r\n  <span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">head<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span>\r\n    <span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">meta<\/span><\/span><\/span><span class=\"hljs-tag\"> <\/span><span class=\"hljs-attr\"><span class=\"hljs-tag\"><span class=\"hljs-attr\">charset<\/span><\/span><\/span><span class=\"hljs-tag\">=<\/span><span class=\"hljs-string\"><span class=\"hljs-tag\"><span class=\"hljs-string\">\"utf-8\"<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span>\r\n    <span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">title<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span>Belajar VueJS<span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;\/<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">title<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span>\r\n    <span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">link<\/span><\/span><\/span><span class=\"hljs-tag\"> <\/span><span class=\"hljs-attr\"><span class=\"hljs-tag\"><span class=\"hljs-attr\">href<\/span><\/span><\/span><span class=\"hljs-tag\">=<\/span><span class=\"hljs-string\"><span class=\"hljs-tag\"><span class=\"hljs-string\">\"styles.css\"<\/span><\/span><\/span><span class=\"hljs-tag\"> <\/span><span class=\"hljs-attr\"><span class=\"hljs-tag\"><span class=\"hljs-attr\">rel<\/span><\/span><\/span><span class=\"hljs-tag\">=<\/span><span class=\"hljs-string\"><span class=\"hljs-tag\"><span class=\"hljs-string\">\"stylesheet\"<\/span><\/span><\/span><span class=\"hljs-tag\"> \/&gt;<\/span><\/span>\r\n    <span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">script<\/span><\/span><\/span><span class=\"hljs-tag\"> <\/span><span class=\"hljs-attr\"><span class=\"hljs-tag\"><span class=\"hljs-attr\">src<\/span><\/span><\/span><span class=\"hljs-tag\">=<\/span><span class=\"hljs-string\"><span class=\"hljs-tag\"><span class=\"hljs-string\">\"https:\/\/unpkg.com\/vue\"<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span><span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;\/<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">script<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span>\r\n  <span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;\/<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">head<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span>\r\n\r\n<span class=\"hljs-tag\"><span class=\"hljs-tag\">&lt;\/<\/span><span class=\"hljs-name\"><span class=\"hljs-tag\"><span class=\"hljs-name\">html<\/span><\/span><\/span><span class=\"hljs-tag\">&gt;<\/span><\/span><\/code><\/pre> <h1>Tahap berikutnya<\/h1> <p>\r\n              Setelah ini kita akan belajar mengenai vue sedikit lebih dalam. Diperlukan pemahaman dasar mengenai javascript dan sedikit mengenai HTML dan CSS. Terima kasih :)\r\n            <\/p>"
+  },
+  {
+    "slug":"the-vue-instance",
+    "label":"The Vue Instance",
+    "image_thumbnail": "02.webp",
+    "isUnlock":true,
+    "isActive":false,
+    "content": "<h1>Membuat Vue Instance<\/h1> <p>\r\n    Setiap aplikasi Vue dimulai dengan membuat Vue Instance. Sintak umumnya seperti ini:\r\n  <\/p> <pre><code class=\"javascript hljs\"><span class=\"hljs-keyword\">new<\/span> Vue({\r\n  <span class=\"hljs-comment\">\/\/ options<\/span>\r\n});<\/code><\/pre> <p>\r\n    Vue instance bertugas untuk mengatur keseluruhan atau sebagian dari aplikasi. Bayangkan kita memiliki aplikasi dengan search box dan beberapa menu dinamis. Widget search box dan beberapa menu dinamis tersebut dapat diatur oleh vue instance yang terpisah. Vue instance mengatur component beserta data-data yang berkaitan dengannya. Untuk contoh saat ini, kita akan menggunakan satu vue instance saja. Lalu, bagaimana vue instance mengatur aplikasi?\r\n  <\/p> <p>\r\n    Vue instance memiliki option sebagai parameternya. Kita dapat melewatkan method atau data ke dalam vue instance melalui option object tersebut. Karena option tersebut adalah object, sehingga dia memiliki beberapa property dan value (saya sudah menulis tentang object pada javascript di <a href=\"https:\/\/medium.com\/@rizalasrul\/working-with-object-in-javascript-c08e96f4e72f\" target=\"_blank\" rel=\"noopener\">sini<\/a>). Property dan value dari option tersebut sudah disesuaikan oleh vue, sehingga kita tidak dapat mendefinisikan property sesuka hati.\r\n  <\/p> <p>\r\n    Kita akan menambahkan property <code>el<\/code> pada option. <code>el<\/code> dapat berupa string yang akan bertugas sebagai selector dan memilihkan element mana yang akan dikendalikan oleh vue instance. Kita akan mencoba menambahkan satu div lagi pada file HTML yang dilacak oleh <code>el<\/code>.\r\n  <\/p> <pre><code class=\"language-html hljs xml\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">html<\/span>&gt;<\/span>\r\n<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">head<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">meta<\/span> <span class=\"hljs-attr\">charset<\/span>=<span class=\"hljs-string\">\"utf-8\"<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">title<\/span>&gt;<\/span>Belajar VueJS<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">title<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">link<\/span> <span class=\"hljs-attr\">href<\/span>=<span class=\"hljs-string\">\"styles.css\"<\/span> <span class=\"hljs-attr\">rel<\/span>=<span class=\"hljs-string\">\"stylesheet\"<\/span> \/&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">script<\/span> <span class=\"hljs-attr\">src<\/span>=<span class=\"hljs-string\">\"https:\/\/unpkg.com\/vue\"<\/span>&gt;<\/span><span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">script<\/span>&gt;<\/span>\r\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">head<\/span>&gt;<\/span>\r\n<span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">body<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">div<\/span> <span class=\"hljs-attr\">id<\/span>=<span class=\"hljs-string\">\"vue-app\"<\/span>&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">h1<\/span>&gt;<\/span><span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">h1<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">div<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">script<\/span> <span class=\"hljs-attr\">src<\/span>=<span class=\"hljs-string\">\"apps.js\"<\/span>&gt;<\/span><span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">script<\/span>&gt;<\/span>\r\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">body<\/span>&gt;<\/span>\r\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">html<\/span>&gt;<\/span><\/code><\/pre> <p>\r\n    Lalu di file <code>apps.js<\/code> kita tambahkan Vue instance dengan selector id <code>vue-app<\/code>.\r\n  <\/p> <pre><code class=\"javascript hljs\"><span class=\"hljs-keyword\">new<\/span> Vue({\r\n  <span class=\"hljs-attr\">el<\/span>: <span class=\"hljs-string\">\"#vue-app\"<\/span>,\r\n});<\/code><\/pre> <p>\r\n    Vue instance sederhana kita sudah jadi. Element HTML dengan id vue-app sudah terkoneksi dengan kode vue. Kita dapat memanipulasi node <code>vue-app<\/code> kita. Dengan ini kita dapat menyebut elemen <code>vue-app<\/code> sebagai root.\r\n  <\/p> <p>\r\n    Jika diperhatikan, terdapat tag <code>&lt;h1&gt;<\/code> di child elemen root. Kita akan memanipulasi teks <code>&lt;h1&gt;<\/code> menggunakan data yang ada di vue. Salah satu properti option yang akan kita gunakan selain eladalah data. Property datadigunakan untuk menyimpan data-data yang digunakan di dalam aplikasi vue.\r\n  <\/p> <p>\r\n    Sebagai contoh, kita akan mengisi HTML yang ada pada tag <code>&lt;h1&gt;<\/code> dengan data yang berasal dari properti data. Berikut adalah contoh vue instance nya.\r\n  <\/p> <pre><code class=\"javascript hljs\"><span class=\"hljs-keyword\">new<\/span> Vue({\r\n  <span class=\"hljs-attr\">el<\/span>: <span class=\"hljs-string\">\"#vue-app\"<\/span>,\r\n  <span class=\"hljs-attr\">data<\/span>: {\r\n    <span class=\"hljs-attr\">name<\/span>: <span class=\"hljs-string\">\"Rizal\"<\/span>,\r\n  },\r\n});<\/code><\/pre> <p>\r\n    Properti <code>data<\/code> berupa object, sehingga juga memiliki properti dan value. Kita akan menampilkan teks nama ke dalam <code>&lt;h1&gt;<\/code> dari vue instance. Untuk menampilkannya, kita cukup menggunakan tanda {{ }}<\/p> <pre><code class=\"language-html hljs xml\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">html<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">head<\/span>&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">meta<\/span> <span class=\"hljs-attr\">charset<\/span>=<span class=\"hljs-string\">\"utf-8\"<\/span>&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">title<\/span>&gt;<\/span>Belajar VueJS<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">title<\/span>&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">link<\/span> <span class=\"hljs-attr\">href<\/span>=<span class=\"hljs-string\">\"styles.css\"<\/span> <span class=\"hljs-attr\">rel<\/span>=<span class=\"hljs-string\">\"stylesheet\"<\/span> \/&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">script<\/span> <span class=\"hljs-attr\">src<\/span>=<span class=\"hljs-string\">\"https:\/\/unpkg.com\/vue\"<\/span>&gt;<\/span><span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">script<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">head<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">body<\/span>&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">div<\/span> <span class=\"hljs-attr\">id<\/span>=<span class=\"hljs-string\">\"vue-app\"<\/span>&gt;<\/span>\r\n      <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">h1<\/span>&gt;<\/span>{{ name }}<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">h1<\/span>&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">div<\/span>&gt;<\/span>\r\n    <span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">script<\/span> <span class=\"hljs-attr\">src<\/span>=<span class=\"hljs-string\">\"apps.js\"<\/span>&gt;<\/span><span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">script<\/span>&gt;<\/span>\r\n  <span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">body<\/span>&gt;<\/span>\r\n<span class=\"hljs-tag\">&lt;\/<span class=\"hljs-name\">html<\/span>&gt;<\/span><\/code><\/pre> <p>\r\n    Bagian <code>&lt;h1&gt;{{ name }}&lt;\/h1&gt;<\/code> akan mengambil value namedari properti <code>data<\/code> yang ada pada vue instance. Jika kita run, maka akan muncul tampilan seperti ini.\r\n  <\/p> <figure><img src=\"\/_nuxt\/static\/images\/yuk_belajar\/vuejs_2\/01-1.webp\" alt=\"Hasil generate data dari Vue instance\"> <figcaption>Hasil generate data dari Vue instance<\/figcaption><\/figure> <h1>Tahap selanjutnya<\/h1> <p>\r\n    Saat ini kita sudah memahami mengenai dua properti yang dapat digunakan pada Vue instance, yaitu <code>data<\/code> dan <code>el<\/code>. Pada tulisan selanjutnya, kita akan diskusi mengenai data dan method-method lain yang dapat digunakan pada Vue instance.\r\n  <\/p>"
+  },
+  {
+    "slug":"data-and-methods",
+    "label":"Data & Methods",
+    "image_thumbnail": "03.webp",
+    "isUnlock":true,
+    "isActive":false,
+    "content": "<h1>Ini content lho 3</h1>"
+  },
+  {
+    "slug":"data-binding",
+    "label":"Data Binding",
+    "image_thumbnail": "04.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"events",
+    "label":"Events",
+    "image_thumbnail": "05.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"event-modifier",
+    "label":"Event Modifier",
+    "image_thumbnail": "06.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"keyboard-event",
+    "label":"Keyboard Event",
+    "image_thumbnail": "07.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"two-way-data-binding",
+    "label":"Two-way Data Binding",
+    "image_thumbnail": "08.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"computed-properties",
+    "label":"Computed Properties",
+    "image_thumbnail": "09.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"dynamic-css-classes",
+    "label":"Dynamic CSS Classes",
+    "image_thumbnail": "10.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"conditionals",
+    "label":"Conditionals",
+    "image_thumbnail": "11.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"looping-with-v-for",
+    "label":"Looping with v-for",
+    "image_thumbnail": "12.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"experiment",
+    "label":"Experiment",
+    "image_thumbnail": "13.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"multiple-vue-instance",
+    "label":"Multiple Vue Instance",
+    "image_thumbnail": "14.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"intro-to-components",
+    "label":"Intro to Components",
+    "image_thumbnail": "15.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"refs",
+    "label":"Refs",
+    "image_thumbnail": "16.webp",
+    "isUnlock":true,
+    "isActive":false
+  },
+  {
+    "slug":"the-vue-cli",
+    "label":"The Vue CLI",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"vue-files-and-the-root-component",
+    "label":"Vue Files & The Root Component",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"nesting-component",
+    "label":"Nesting Component",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"props",
+    "label":"Props",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"primitive-vs-reference-type",
+    "label":"Primitive vs Reference Types",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"events-child-to-parent",
+    "label":"Events (child to parent)",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"the-event-bus",
+    "label":"The Event Bus",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"life-cycle-hooks",
+    "label":"Life Cycle Hooks",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"slots",
+    "label":"Slots",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"dynamic-components",
+    "label":"Dynamic Components",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"input-binding-creating-a-blog",
+    "label":"Input Binding (creating a blog, bag. 1)",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"checkbox-binding",
+    "label":"Checkbox Binding",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"select-box-binding",
+    "label":"Select Box Binding",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"http-request",
+    "label":"HTTP Request",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"get-request",
+    "label":"GET Request",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"custom-directives",
+    "label":"Custom Directives",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"filters",
+    "label":"Filters",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"custom-search-filter",
+    "label":"Custom Search Filter",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"registering-things-locally",
+    "label":"Registering Things Locally",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"mixins",
+    "label":"Mixins",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"setting-up-routing",
+    "label":"Setting up Routing",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"hash-vs-history",
+    "label":"Hash vs History",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"adding-router-link",
+    "label":"Adding Router Link",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"route-parameters",
+    "label":"Route Parameters",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"posting-to-firebase",
+    "label":"Posting to Firebase",
+    "isUnlock":false,
+    "isActive":false
+  },
+  {
+    "slug":"retrieving-posts-from-firebase",
+    "label":"Retrieving Posts from Firebase",
+    "isUnlock":false,
+    "isActive":false
+  }
+]

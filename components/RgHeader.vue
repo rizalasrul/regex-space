@@ -25,6 +25,16 @@
               class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-white hover:opacity-75">HOME</nuxt-link>
           </li>
           <li
+            :class="{'bg-white': isMenuActivated('yuk-belajar')}"
+            class="nav-item">
+            <nuxt-link
+              :class="{'text-red-600': isMenuActivated('yuk-belajar')}"
+              to="/yuk-belajar"
+              class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-white hover:opacity-75">
+              YUK BELAJAR
+            </nuxt-link>
+          </li>
+          <li
             :class="{'bg-white': isMenuActivated('now')}"
             class="nav-item">
             <nuxt-link

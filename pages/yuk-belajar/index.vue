@@ -4,7 +4,7 @@
       title="Perjalanan Belajar Saya"
       sub-title="Beberapa hal yang saya pelajari di dunia teknologi" />
 
-    <div class="container grid grid-cols-3 xl:grid-cols-3 md:grid-cols-4 md:px-12 mx-auto pb-12 xl:pb-24">
+    <div class="container grid grid-cols-3 grid-cols-none xl:grid-cols-3 md:grid-cols-2 md:px-12 mx-auto pb-12 xl:grid-cols-3 xl:pb-24">
       <rg-card-class
         v-for="course in classes"
         :key="course.id"

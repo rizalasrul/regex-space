@@ -34,6 +34,11 @@ export default {
   ],
   modules: [
     [
+      'nuxt-highlightjs', {
+        style: 'obsidian'
+      },
+    ],
+    [
       'nuxt-fontawesome', {
         imports: [
          {
