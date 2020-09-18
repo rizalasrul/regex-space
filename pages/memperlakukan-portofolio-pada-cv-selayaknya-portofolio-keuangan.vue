@@ -132,7 +132,7 @@ export default {
         name: 'description',
         content: 'Sebagai software engineer, programmer, atau bidang apapun itu yang bekerja di ranah teknologi atau industri digital, skill dan pengalaman adalah aset profesional terpenting kita.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan' },
+      { property: 'og:url', content: 'https://rizalasrul.com/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan' },
       {
         property: 'og:site_name',
         content: 'Memperlakukan portofolio pada CV selayaknya portofolio keuangan | Rizal Asrul Pambudi',
@@ -147,10 +147,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan' }],
   },
 };
 </script>

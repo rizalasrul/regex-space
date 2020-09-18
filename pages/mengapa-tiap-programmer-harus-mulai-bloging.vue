@@ -71,7 +71,7 @@ export default {
         name: 'description',
         content: 'Akan selalu ada yang pertama, termasuk tulisan ini. Ingin tahu jawabannya? Klik aja tulisan ini.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/mengapa-tiap-programmer-harus-mulai-bloging' },
+      { property: 'og:url', content: 'https://rizalasrul.com/mengapa-tiap-programmer-harus-mulai-bloging' },
       {
         property: 'og:site_name',
         content: 'Mengapa tiap programmer harus mulai bloging | Rizal Asrul Pambudi',
@@ -86,10 +86,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/mengapa-tiap-programmer-harus-mulai-bloging.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/mengapa-tiap-programmer-harus-mulai-bloging.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/mengapa-tiap-programmer-harus-mulai-bloging' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/mengapa-tiap-programmer-harus-mulai-bloging' }],
   },
 };
 </script>

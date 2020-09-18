@@ -260,7 +260,7 @@ export default {
         name: 'description',
         content: '2020 tinggal beberapa jam lagi. Sepanjang 2019 ini sudah ngapain aja sih? Apakah resolusi yang ditulis di awal tahun sudah tercapai? Atau malah tetap gitu-gitu aja hingga 2020 berakhir?'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/yang-patut-disyukuri-di-2019' },
+      { property: 'og:url', content: 'https://rizalasrul.com/yang-patut-disyukuri-di-2019' },
       {
         property: 'og:site_name',
         content: 'Yang patut disyukuri di 2019 | Rizal Asrul Pambudi',
@@ -275,10 +275,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/yang-patut-disyukuri-di-2019.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/yang-patut-disyukuri-di-2019.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/yang-patut-disyukuri-di-2019' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/yang-patut-disyukuri-di-2019' }],
   },
 };
 </script>

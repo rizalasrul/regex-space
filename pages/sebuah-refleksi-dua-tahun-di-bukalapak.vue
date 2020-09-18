@@ -139,7 +139,7 @@ export default {
         name: 'description',
         content: 'Tepat hari ini (20/01/2020), genap saya menginjak dua tahun di Bukalapak. Hal ini membuat saya berpikir kembali tentang semua pengalaman dan ilmu yang saya dapatkan.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/sebuah-refleksi-dua-tahun-di-bukalapak' },
+      { property: 'og:url', content: 'https://rizalasrul.com/sebuah-refleksi-dua-tahun-di-bukalapak' },
       {
         property: 'og:site_name',
         content: 'Sebuah refleksi dua tahun di Bukalapak | Rizal Asrul Pambudi',
@@ -154,10 +154,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/sebuah-refleksi-dua-tahun-di-bukalapak.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/sebuah-refleksi-dua-tahun-di-bukalapak.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/sebuah-refleksi-dua-tahun-di-bukalapak' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/sebuah-refleksi-dua-tahun-di-bukalapak' }],
   },
 };
 </script>

@@ -119,7 +119,7 @@ export default {
         name: 'description',
         content: 'Terlalu mudah untuk memulai hal yang baru di era ini. Apalagi di tahun 2020 dimana sebagian besar aktifitas kita lakukan dari rumah.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/kemampuan-yang-hampir-terlupakan-konsistensi' },
+      { property: 'og:url', content: 'https://rizalasrul.com/kemampuan-yang-hampir-terlupakan-konsistensi' },
       {
         property: 'og:site_name',
         content: 'Kemampuan yang hampir terlupakan: Konsistensi | Rizal Asrul Pambudi',
@@ -134,10 +134,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/kemampuan-yang-hampir-terlupakan-konsistensi' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/kemampuan-yang-hampir-terlupakan-konsistensi' }],
   },
 };
 </script>

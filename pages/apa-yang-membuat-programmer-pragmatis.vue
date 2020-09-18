@@ -130,7 +130,7 @@ export default {
         name: 'description',
         content: 'Sebelum membahas mengenai pragmatic programmer, kita harus mengerti apa yang dimaksud dengan pragmatic. Siapapun bisa googling untuk mencari tahu apa yang dimaksud dengan kata “pragmatic”. Tapi saya mencoba untuk mendemostrasikan apa yang dimaksud dengan pragmatic yang sebenarnya.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/apa-yang-membuat-programmer-pragmatis' },
+      { property: 'og:url', content: 'https://rizalasrul.com/apa-yang-membuat-programmer-pragmatis' },
       {
         property: 'og:site_name',
         content: 'Apa yang membuat programmer pragmatis? | Rizal Asrul Pambudi',
@@ -145,10 +145,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/apa-yang-membuat-programmer-pragmatis.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/apa-yang-membuat-programmer-pragmatis.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/apa-yang-membuat-programmer-pragmatis' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/apa-yang-membuat-programmer-pragmatis' }],
   },
 };
 </script>

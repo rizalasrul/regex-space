@@ -34,7 +34,7 @@ export default {
         name: 'description',
         content: 'Ayo belajar teknologi bersama saya.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/yuk-belajar' },
+      { property: 'og:url', content: 'https://rizalasrul.com/yuk-belajar' },
       {
         property: 'og:site_name',
         content: 'Home | Rizal Asrul Pambudi',
@@ -49,10 +49,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/yuk_belajar.png',
+        content: 'https://rizalasrul.com/images/site_thumbnails/yuk_belajar.png',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/yuk-belajar' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/yuk-belajar' }],
   },
   asyncData ({ params }) {
     return { classes };

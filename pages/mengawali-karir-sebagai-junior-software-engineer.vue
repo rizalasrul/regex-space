@@ -117,7 +117,7 @@ export default {
         name: 'description',
         content: 'Pahami bahwa memulai karir sebagai junior software engineer berarti tanggung jawab utama kita adalah untuk belajar dan menyerap sebanyak-banyaknya best practice di tempat kita bekerja. Harap mengerti bahwa sebagai junior, kita akan sering melakukan kesalahan dan sesekali membuat bug, dan itu tidak apa-apa. Itu adalah bagian dari proses pembelajaran yang harus kita lalui.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/mengawali-karir-sebagai-junior-software-engineer' },
+      { property: 'og:url', content: 'https://rizalasrul.com/mengawali-karir-sebagai-junior-software-engineer' },
       {
         property: 'og:site_name',
         content: 'Mengawali karir sebagai junior software engineer | Rizal Asrul Pambudi',
@@ -132,10 +132,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/mengawali-karir-sebagai-junior-software-engineer.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/mengawali-karir-sebagai-junior-software-engineer.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/mengawali-karir-sebagai-junior-software-engineer' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/mengawali-karir-sebagai-junior-software-engineer' }],
   },
 };
 </script>

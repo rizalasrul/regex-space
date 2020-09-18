@@ -130,7 +130,7 @@ export default {
         name: 'description',
         content: 'Kita bisa belajar dari kutipan di atas. Bukan hanya apa yang kita pikirkan, tapi bagaimana cara kita mengemasnya. Memiliki ide-ide terbaik, code dengan pendekatan terbaik, atau pemikiran paling pragmatis sekalipun pada akhirnya akan menguap, kecuali kita dapat menyampaikannya kepada orang lain. Ide yang cemerlang akan sia-sia jika tanpa komunikasi yang efektif.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/berkomunikasi-efektif-sebagai-software-engineer' },
+      { property: 'og:url', content: 'https://rizalasrul.com/berkomunikasi-efektif-sebagai-software-engineer' },
       {
         property: 'og:site_name',
         content: 'Berkomunikasi efektif sebagai software engineer | Rizal Asrul Pambudi',
@@ -145,10 +145,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/berkomunikasi-efektif-sebagai-software-engineer.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/berkomunikasi-efektif-sebagai-software-engineer.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/berkomunikasi-efektif-sebagai-software-engineer' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/berkomunikasi-efektif-sebagai-software-engineer' }],
   },
 };
 </script>

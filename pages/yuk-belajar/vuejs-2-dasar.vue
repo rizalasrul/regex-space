@@ -46,7 +46,7 @@ export default {
         name: 'description',
         content: 'Tutorial Vue.js berbahasa Indonesia. Pada tutorial ini akan dibahas mulai dari installasi, Vue instance, two-way data binding, hingga latihan membuat website sederhana.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/yuk-belajar/vuejs-2-dasar' },
+      { property: 'og:url', content: 'https://rizalasrul.com/yuk-belajar/vuejs-2-dasar' },
       {
         property: 'og:site_name',
         content: 'Vue.js 2 Tutorial Bahasa Indonesia | Rizal Asrul Pambudi',
@@ -61,10 +61,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/yuk_belajar/vuejs_2/00.webp',
+        content: 'https://rizalasrul.com/images/yuk_belajar/vuejs_2/00.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/yuk-belajar/vuejs-2-dasar' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/yuk-belajar/vuejs-2-dasar' }],
   },
   asyncData () {
     return { courses, activeCourse: courses[0] };

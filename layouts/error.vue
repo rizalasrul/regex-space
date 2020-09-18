@@ -72,7 +72,7 @@ export default {
         name: 'description',
         content: 'Segala sesuatu yang ada di kepala Rizal Asrul Pambudi: tulisan, tutorial, dan pengalaman.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app' },
+      { property: 'og:url', content: 'https://rizalasrul.com' },
       {
         property: 'og:site_name',
         content: 'Home | Rizal Asrul Pambudi',
@@ -87,10 +87,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/home.webp',
+        content: 'https://rizalasrul.com/images/site_thumbnails/home.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com' }],
   },
 };
 </script>

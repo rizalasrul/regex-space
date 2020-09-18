@@ -128,7 +128,7 @@ export default {
         name: 'description',
         content: 'Kalau tidak mau ada risiko, masalah, atau bug di production, cukup tidak perlu deploy apa-apa ke production. Accept that incident will happen, this is just part of the innovation.'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/bagaimana-sebaiknya-menangani-emergency-di-production' },
+      { property: 'og:url', content: 'https://rizalasrul.com/bagaimana-sebaiknya-menangani-emergency-di-production' },
       {
         property: 'og:site_name',
         content: 'Bagaimana sebaiknya menangani emergency di production | Rizal Asrul Pambudi',
@@ -143,10 +143,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/bagaimana-sebaiknya-menangani-emergency-di-production.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/bagaimana-sebaiknya-menangani-emergency-di-production.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/bagaimana-sebaiknya-menangani-emergency-di-production' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/bagaimana-sebaiknya-menangani-emergency-di-production' }],
   },
 };
 </script>

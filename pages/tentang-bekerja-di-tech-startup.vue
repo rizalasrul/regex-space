@@ -94,7 +94,7 @@ export default {
         name: 'description',
         content: 'Talenta seperti apa sih yang dicari oleh tech startup?'
       },
-      { property: 'og:url', content: 'https://rizalasrul.netlify.app/tentang-bekerja-di-tech-startup' },
+      { property: 'og:url', content: 'https://rizalasrul.com/tentang-bekerja-di-tech-startup' },
       {
         property: 'og:site_name',
         content: 'Tentang kerja di startup teknologi | Rizal Asrul Pambudi',
@@ -109,10 +109,10 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/blog_thumbnails/tentang-bekerja-di-tech-startup.webp',
+        content: 'https://rizalasrul.com/images/blog_thumbnails/tentang-bekerja-di-tech-startup.webp',
       },
     ],
-    link: [{ rel: 'canonical', href: 'https://rizalasrul.netlify.app/tentang-bekerja-di-tech-startup' }],
+    link: [{ rel: 'canonical', href: 'https://rizalasrul.com/tentang-bekerja-di-tech-startup' }],
   },
 };
 </script>
