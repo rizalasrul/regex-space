@@ -56,7 +56,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/about.webp',
+        content: 'https://rizalasrul.netlify.app/images/site_thumbnails/about.png',
       },
 
     ],
