@@ -21,7 +21,7 @@
 import classes from '~/static/data/classes.json';
 
 export default {
-  name: 'ClasPage',
+  name: 'ClassPage',
   head: {
     title: `Rizal Asrul Pambudi - Mari belajar bersama`,
     meta: [

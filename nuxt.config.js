@@ -14,6 +14,20 @@ export default {
   server: {
     //host: '0.0.0.0',
   },
+  head: {
+    htmlAttrs: { lang: 'id' },
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { property: 'og:type', content: 'website' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:site', content: '@rizalasrul' },
+      { name: 'twitter:creator', content: '@rizalasrul' },
+      { name: 'twitter:creator', content: '@rizalasrul' },
+    ],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+  },
+  css: ['~/assets/main.css'],
   buildModules: [
     '@nuxtjs/fontawesome',
     '@nuxtjs/tailwindcss'
@@ -34,17 +48,4 @@ export default {
       }
     ]
   ],
-  head: {
-    htmlAttrs: { lang: 'id' },
-    meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { property: 'og:type', content: 'website' },
-      { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:site', content: '@rizalasrul' },
-      { name: 'twitter:creator', content: '@rizalasrul' },
-      { name: 'twitter:creator', content: '@rizalasrul' },
-    ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  },
 }
