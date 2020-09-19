@@ -27,42 +27,42 @@
     "slug":"data-binding",
     "label":"Data Binding",
     "image_thumbnail": "04.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"events",
     "label":"Events",
     "image_thumbnail": "05.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"event-modifier",
     "label":"Event Modifier",
     "image_thumbnail": "06.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"keyboard-event",
     "label":"Keyboard Event",
     "image_thumbnail": "07.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"two-way-data-binding",
     "label":"Two-way Data Binding",
     "image_thumbnail": "08.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"computed-properties",
     "label":"Computed Properties",
     "image_thumbnail": "09.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
@@ -76,42 +76,42 @@
     "slug":"conditionals",
     "label":"Conditionals",
     "image_thumbnail": "11.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"looping-with-v-for",
     "label":"Looping with v-for",
     "image_thumbnail": "12.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"experiment",
     "label":"Experiment",
     "image_thumbnail": "13.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"multiple-vue-instance",
     "label":"Multiple Vue Instance",
     "image_thumbnail": "14.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"intro-to-components",
     "label":"Intro to Components",
     "image_thumbnail": "15.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
     "slug":"refs",
     "label":"Refs",
     "image_thumbnail": "16.webp",
-    "isUnlock":true,
+    "isUnlock":false,
     "isActive":false
   },
   {
