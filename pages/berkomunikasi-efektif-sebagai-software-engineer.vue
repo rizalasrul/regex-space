@@ -145,7 +145,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/berkomunikasi-efektif-sebagai-software-engineer.webp',
+        content: 'https://rizalasrul.com/images/meta/berkomunikasi-efektif-sebagai-software-engineer.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/berkomunikasi-efektif-sebagai-software-engineer' }],

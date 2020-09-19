@@ -87,7 +87,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/site_thumbnails/home.webp',
+        content: 'https://rizalasrul.com/images/site_thumbnails/home.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com' }],

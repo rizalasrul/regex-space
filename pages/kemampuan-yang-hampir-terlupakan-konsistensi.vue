@@ -134,7 +134,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/kemampuan-yang-hampir-terlupakan-konsistensi.webp',
+        content: 'https://rizalasrul.com/images/meta/kemampuan-yang-hampir-terlupakan-konsistensi.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/kemampuan-yang-hampir-terlupakan-konsistensi' }],

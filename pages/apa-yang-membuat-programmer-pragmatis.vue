@@ -145,7 +145,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/apa-yang-membuat-programmer-pragmatis.webp',
+        content: 'https://rizalasrul.com/images/meta/apa-yang-membuat-programmer-pragmatis.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/apa-yang-membuat-programmer-pragmatis' }],

@@ -154,7 +154,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/sebuah-refleksi-dua-tahun-di-bukalapak.webp',
+        content: 'https://rizalasrul.com/images/meta/sebuah-refleksi-dua-tahun-di-bukalapak.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/sebuah-refleksi-dua-tahun-di-bukalapak' }],

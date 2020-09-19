@@ -275,7 +275,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/yang-patut-disyukuri-di-2019.webp',
+        content: 'https://rizalasrul.com/images/meta/yang-patut-disyukuri-di-2019.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/yang-patut-disyukuri-di-2019' }],

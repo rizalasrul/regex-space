@@ -61,7 +61,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/yuk_belajar/vuejs_2/00.webp',
+        content: 'https://rizalasrul.com/images/yuk_belajar/vuejs_2/00.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/yuk-belajar/vuejs-2-dasar' }],

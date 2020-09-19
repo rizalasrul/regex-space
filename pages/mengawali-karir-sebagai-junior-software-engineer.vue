@@ -132,7 +132,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/mengawali-karir-sebagai-junior-software-engineer.webp',
+        content: 'https://rizalasrul.com/images/meta/mengawali-karir-sebagai-junior-software-engineer.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/mengawali-karir-sebagai-junior-software-engineer' }],

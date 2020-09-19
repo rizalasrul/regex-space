@@ -109,7 +109,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/tentang-bekerja-di-tech-startup.webp',
+        content: 'https://rizalasrul.com/images/meta/tentang-bekerja-di-tech-startup.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/tentang-bekerja-di-tech-startup' }],

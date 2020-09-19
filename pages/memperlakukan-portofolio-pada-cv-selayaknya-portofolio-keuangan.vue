@@ -147,7 +147,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan.webp',
+        content: 'https://rizalasrul.com/images/meta/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/memperlakukan-portofolio-pada-cv-selayaknya-portofolio-keuangan' }],

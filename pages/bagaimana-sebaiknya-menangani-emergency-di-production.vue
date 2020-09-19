@@ -143,7 +143,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/bagaimana-sebaiknya-menangani-emergency-di-production.webp',
+        content: 'https://rizalasrul.com/images/meta/bagaimana-sebaiknya-menangani-emergency-di-production.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/bagaimana-sebaiknya-menangani-emergency-di-production' }],

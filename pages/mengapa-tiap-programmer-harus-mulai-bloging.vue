@@ -86,7 +86,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: 'https://rizalasrul.com/images/blog_thumbnails/mengapa-tiap-programmer-harus-mulai-bloging.webp',
+        content: 'https://rizalasrul.com/images/meta/mengapa-tiap-programmer-harus-mulai-bloging.png',
       },
     ],
     link: [{ rel: 'canonical', href: 'https://rizalasrul.com/mengapa-tiap-programmer-harus-mulai-bloging' }],
