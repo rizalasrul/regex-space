@@ -352,7 +352,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: '2020 tinggal beberapa jam lagi. Sepanjang 2019 ini sudah ngapain aja sih? Apakah resolusi yang ditulis di awal tahun sudah tercapai? Atau malah tetap gitu-gitu aja hingga 2020 berakhir?'
+        content: 'Di JavaScript juga memiliki konsep object yang hampir mirip dengan OOP. Hal terpenting dan fundamental dari tipe data pada JavaScript adalah tipe data Object'
       },
       { property: 'og:url', content: 'https://rizalasrul.com/object-di-javascript' },
       {
@@ -365,7 +365,7 @@ export default {
       },
       {
         property: 'og:description',
-        content: '2020 tinggal beberapa jam lagi. Sepanjang 2019 ini sudah ngapain aja sih? Apakah resolusi yang ditulis di awal tahun sudah tercapai? Atau malah tetap gitu-gitu aja hingga 2020 berakhir?',
+        content: 'Di JavaScript juga memiliki konsep object yang hampir mirip dengan OOP. Hal terpenting dan fundamental dari tipe data pada JavaScript adalah tipe data Object',
       },
       {
         property: 'og:image',
