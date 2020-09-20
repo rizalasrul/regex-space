@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link :to="`yuk-belajar/${slug}`" style="text-decoration: none;">
+  <nuxt-link :to="`/yuk-belajar/${slug}`" style="text-decoration: none;">
     <div class="col-span-4 flex flex-col items-center lg:col-span-1 md:col-span-2 sm:col-span-4 xl:col-span-1 mb-8">
       <div class="bg-white rounded-lg mt-5">
         <img
