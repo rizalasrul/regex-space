@@ -68,5 +68,12 @@
     "formated_title":"mengapa-tiap-programmer-harus-mulai-bloging",
     "publish_date":"27 Desember 2017",
     "is_active":true
+  },
+  {
+    "id":11,
+    "title":"Pengenalan object di Javascript",
+    "formated_title":"object-di-javascript",
+    "publish_date":"30 Mei 2017",
+    "is_active":true
   }
 ]
