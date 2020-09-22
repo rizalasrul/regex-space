@@ -27,6 +27,7 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
+  plugins: [{ src: '~plugins/ga.js', mode: 'client' }],
   css: ['~/assets/main.css'],
   buildModules: [
     '@nuxtjs/fontawesome',
