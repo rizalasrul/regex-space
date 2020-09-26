@@ -9,7 +9,7 @@
         </div>
       <div class="bg-white shadow-lg rounded-lg -mt-4 w-64">
         <div class="py-5 px-5">
-          <span class="font-bold text-gray-800 text-lg">{{ title }}</span>
+          <span class="font-bold text-gray-800 text-md">{{ title }}</span>
           <div class="flex items-center justify-between">
             <div class="text-sm text-gray-600 font-light">{{ type }}</div>
             <div v-if="isNew" class="text-base text-red-600 font-bold">BARU</div>
