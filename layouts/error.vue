@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="404 kamu berada di halaman yang salah"
       sub-title="Jangan bersedih dan berkecil hati. Kamu dapat memilih halaman lain, atau baca puisi karya Gus Mus favorit saya yang sungguh berhubungan dengan kondisi saat ini." />

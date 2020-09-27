@@ -1,12 +1,14 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Unit Testing di Javascript"
       sub-title="Belajar mengenai konsep unit testing dan dasar-dasar unit testing di javascript" />
     <div class="flex flex-wrap md:px-24 mx-auto px-4 xl:px-64 mb-4">
       <div class="mb-4 w-full xl:mb-0 xl:w-3/4">
-        <div class="flex flex-wrap justify-center xl:mr-4">
-          <div class="border-2 p-4 rounded">
+        <div
+          style="background-color: #0f3460;"
+          class="flex flex-wrap justify-center xl:mr-4">
+          <div class="p-4 rounded">
             <img
               :src="`/images/yuk_belajar/unit_testing_di_js/${activeCourse.image_thumbnail}`"
               :alt="activeCourse.label"

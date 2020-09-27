@@ -1,12 +1,14 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Vue.js 2 Dasar"
       sub-title="Belajar mengenai instalasi, Vue instance, data & methods, pengkondisian dan perulangan, serta eksperimen sederhana" />
     <div class="flex flex-wrap md:px-24 mx-auto px-4 xl:px-64 mb-4">
       <div class="mb-4 w-full xl:mb-0 xl:w-3/4">
-        <div class="flex flex-wrap justify-center xl:mr-4">
-          <div class="border-2 p-4 rounded">
+        <div
+          style="background-color: #0f3460;"
+          class="flex flex-wrap justify-center xl:mr-4">
+          <div class="p-4 rounded">
             <img
               :src="`/images/yuk_belajar/vuejs_2/${activeCourse.image_thumbnail}`"
               :alt="activeCourse.label"
