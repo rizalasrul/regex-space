@@ -16,18 +16,18 @@
             <div class="w-full md:w-6/12 xl:w-4/12 xl:pt-6 pt-3 md:pt-0 md:px-4 ml-auto">
               <span class="block uppercase text-gray-600 text-xs xl:text-sm font-semibold mb-2">My Links</span>
               <ul class="list-unstyled">
-                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-xs xl:text-sm" href="https://linkedin.com/in/rizalasrul" target="_blank" rel="noopener">LinkedIn</a></li>
-                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-xs xl:text-sm" href="https://facebook.com/rizal.asrul" target="_blank" rel="noopener">Facebook</a></li>
-                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-xs xl:text-sm" href="https://instagram.com/rizalasrul" target="_blank" rel="noopener">Instagram</a></li>
-                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-xs xl:text-sm" href="https://medium.com/@rizalasrul" target="_blank" rel="noopener">Medium</a></li>
-                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-xs xl:text-sm" href="https://twitter.com/asrulole" target="_blank" rel="noopener">Twitter</a></li>
+                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-sm xl:text-sm" href="https://linkedin.com/in/rizalasrul" target="_blank" rel="noopener">LinkedIn</a></li>
+                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-sm xl:text-sm" href="https://facebook.com/rizal.asrul" target="_blank" rel="noopener">Facebook</a></li>
+                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-sm xl:text-sm" href="https://instagram.com/rizalasrul" target="_blank" rel="noopener">Instagram</a></li>
+                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-sm xl:text-sm" href="https://medium.com/@rizalasrul" target="_blank" rel="noopener">Medium</a></li>
+                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-sm xl:text-sm" href="https://twitter.com/asrulole" target="_blank" rel="noopener">Twitter</a></li>
               </ul>
             </div>
             <div class="w-full md:w-6/12 xl:w-4/12 xl:pt-6 pt-3 md:pt-0 md:px-4 ml-auto">
               <span class="block uppercase text-gray-600 text-xs xl:text-sm font-semibold mb-2">Other Resources</span>
               <ul class="list-unstyled">
-                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-xs xl:text-sm" href="https://bukalapak.com/u/rizalasrulpambudi" target="_blank" rel="noopener">Bukalapak</a></li>
-                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-xs xl:text-sm" href="https://www.ultrajaya.co.id" target="_blank" rel="noopener">Ultrajaya</a></li>
+                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-sm xl:text-sm" href="https://bukalapak.com/u/rizalasrulpambudi" target="_blank" rel="noopener">Bukalapak</a></li>
+                <li><a class="text-red-600 hover:text-red-800 font-semibold block pb-2 text-sm xl:text-sm" href="https://www.ultrajaya.co.id" target="_blank" rel="noopener">Ultrajaya</a></li>
               </ul>
             </div>
           </div>

@@ -8,7 +8,7 @@
       style="transition: all 0.15s ease 0s;">
       <img
         :alt="title"
-        :src="`images/blog_thumbnails/${imageThumbnail}.webp`"
+        :src="`images/blog_homepage/${imageThumbnail}.webp`"
         class="align-middle border-none max-w-full h-auto rounded-lg" />
     </div>
     <h5 class="font-semibold text-md md:text-xl text-gray-700">{{ title }}</h5>
