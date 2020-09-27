@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Sebuah refleksi dua tahun di Bukalapak"
       sub-title="20 Januari 2020" />

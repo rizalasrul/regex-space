@@ -1,7 +1,7 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
-      title="Perjalanan Belajar Saya"
+      title="Perjalanan belajar saya"
       sub-title="Beberapa hal yang saya pelajari di dunia teknologi" />
 
     <div class="container grid grid-cols-3 grid-cols-none xl:grid-cols-3 md:grid-cols-2 md:px-12 mx-auto pb-12 xl:grid-cols-3 xl:pb-24">

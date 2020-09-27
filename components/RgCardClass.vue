@@ -7,12 +7,17 @@
           alt="Vue.js 2 Dasar"
           class="h-40 rounded-md" />
         </div>
-      <div class="bg-white shadow-lg rounded-lg -mt-4 w-64">
+      <div
+        style="background-color: #0f3460;"
+        class="shadow-lg rounded-lg -mt-4 w-64">
         <div class="py-5 px-5">
-          <span class="font-bold text-gray-800 text-md">{{ title }}</span>
+          <span class="font-bold text-white text-md">{{ title }}</span>
           <div class="flex items-center justify-between">
-            <div class="text-sm text-gray-600 font-light">{{ type }}</div>
-            <div v-if="isNew" class="text-base text-red-600 font-bold">BARU</div>
+            <div class="text-sm text-white font-light">{{ type }}</div>
+            <div
+              v-if="isNew"
+              style="color: #e94560;"
+              class="text-base font-bold">BARU</div>
           </div>
         </div>
       </div>

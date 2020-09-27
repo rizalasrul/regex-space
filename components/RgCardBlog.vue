@@ -11,8 +11,12 @@
         :src="`images/blog_homepage/${imageThumbnail}.webp`"
         class="align-middle border-none max-w-full h-auto rounded-lg" />
     </div>
-    <h5 class="font-semibold text-md md:text-xl text-gray-700">{{ title }}</h5>
-    <h6 class="text-red-600 text-xs md:text-sm">{{ publishDate }}</h6>
+    <h5 class="font-semibold text-md md:text-xl text-white">{{ title }}</h5>
+    <h6
+      style="color: #e94560;"
+      class="text-xs md:text-sm">
+      {{ publishDate }}
+    </h6>
   </nuxt-link>
 </template>
 

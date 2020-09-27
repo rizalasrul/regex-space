@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Mengawali karir sebagai junior software engineer"
       sub-title="27 Januari 2020" />

@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Pengenalan object di Javascript"
       sub-title="30 Mei 2017" />

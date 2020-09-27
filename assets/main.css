@@ -1,8 +1,11 @@
 .page-enter-active,
 .page-leave-active {
   transition: opacity 0.2s;
+  background-color: #1a1a2e;
+  transition-timing-function: ease-in-out;
 }
 .page-enter,
 .page-leave-to {
-  opacity: 0;
+  opacity: 0.9;
+  background-color: #1a1a2e;
 }

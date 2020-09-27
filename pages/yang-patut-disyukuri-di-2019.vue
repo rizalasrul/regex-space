@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Yang patut disyukuri di 2019"
       sub-title="30 Desember 2019" />

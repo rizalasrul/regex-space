@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Mengapa tiap programmer harus mulai bloging"
       sub-title="27 Desember 2017" />
