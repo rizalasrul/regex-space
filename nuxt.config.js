@@ -55,4 +55,8 @@ export default {
     ],
     '@nuxtjs/sitemap'
   ],
+  sitemap: {
+    hostname: 'https://rizalasrul.com',
+    gzip: true,
+  }
 }
