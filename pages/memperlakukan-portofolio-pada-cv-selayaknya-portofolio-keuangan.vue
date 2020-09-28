@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Memperlakukan portofolio pada CV selayaknya portofolio keuangan"
       sub-title="15 Agustus 2020" />

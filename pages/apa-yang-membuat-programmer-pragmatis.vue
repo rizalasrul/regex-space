@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Apa yang membuat programmer pragmatis?"
       sub-title="03 Februari 2020" />

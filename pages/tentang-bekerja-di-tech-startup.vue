@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Tentang kerja di startup teknologi"
       sub-title="06 Januari 2020" />

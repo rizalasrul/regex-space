@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Kemampuan yang hampir terlupakan: Konsistensi"
       sub-title="08 September 2020" />

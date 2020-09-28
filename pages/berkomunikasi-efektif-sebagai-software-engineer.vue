@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Berkomunikasi efektif sebagai software engineer"
       sub-title="10 Februari 2020" />

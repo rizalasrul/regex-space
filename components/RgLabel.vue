@@ -1,5 +1,7 @@
 <template>
-  <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded text-red-600 bg-red-200 uppercase last:mr-0 mr-1">
+  <span
+    style="background-color: #0f3460;"
+    class="text-white text-xs font-semibold inline-block py-1 px-2 uppercase rounded uppercase last:mr-0 mr-1">
     {{ label }}
   </span>
 </template>

@@ -1,8 +1,8 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="What I’m doing #now"
-      :sub-title="`Halaman ini terinspirasi dari halaman <a class='text-red-600' href='https://nownownow.com/about' target='_blank' rel='noopener'>now</a>. Jika kamu punya situs sendiri, ayo buat juga.`" />
+      :sub-title="`Halaman ini terinspirasi dari halaman <a style='color: #e94560;' href='https://nownownow.com/about' target='_blank' rel='noopener'>now</a>. Jika kamu punya situs sendiri, ayo buat juga.`" />
 
     <div class="container mx-auto xl:pb-24 pb-12 xl:px-64 md:px-24 px-4">
       <article class="xl:pb-12 pb-6 prose xl:prose-xl sm:prose-sm md:prose-lg" style="max-width: none;">
@@ -22,8 +22,12 @@
           Masih menghabiskan buku yang saya mulai baca pada awal tahun ini.
         </p>
         <figure>
-          <img src="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20.jpg" alt="Buku The Pragmatic Programmer 20th Anniversary Edition">
-          <figcaption>Buku The Pragmatic Programmer 20th Anniversary Edition</figcaption>
+          <img
+            src="~/static/images/site_contains/01.webp"
+            alt="Buku The Pragmatic Programmer 20th Anniversary Edition" />
+          <figcaption>
+            Buku The Pragmatic Programmer 20th Anniversary Edition
+          </figcaption>
         </figure>
         <p>
           Saya juga mulai rutin untuk lari minimal 3 km untuk tiap dua hari sekali pada sore hari.

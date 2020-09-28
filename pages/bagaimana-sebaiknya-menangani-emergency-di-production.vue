@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="Bagaimana sebaiknya menangani emergency di production"
       sub-title="12 Januari 2020" />

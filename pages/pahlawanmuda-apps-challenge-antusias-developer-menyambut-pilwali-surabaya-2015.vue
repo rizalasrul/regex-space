@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section style="background-color: #1a1a2e;">
     <rg-heading-content
       title="#PahlawanMuda Apps Challenge. Antusias Developer Menyambut Pilwali Surabaya 2015"
       sub-title="15 November 2015" />
