@@ -31,7 +31,7 @@
   </section>
 </template>
 <script>
-import courses from '~/static/data/vuejs_2_dasar.json';
+import courses from '~/static/data/vuejs_2_dasar.js';
 
 export default {
   name: 'Vuejs2DasarPage',
