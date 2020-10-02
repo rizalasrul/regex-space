@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import classes from '~/static/data/classes.json';
+import classes from '~/static/data/classes.js';
 
 export default {
   name: 'ClassPage',

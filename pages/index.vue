@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import blogs from '~/static/data/blogs.json';
+import blogs from '~/static/data/blogs.js';
 
 export default {
   name: 'Homepage',
