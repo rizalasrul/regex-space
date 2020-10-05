@@ -1,5 +1,13 @@
 export default [
   {
+    id: 3,
+    title: 'Async Javascript',
+    thumbnail: 'async_js/00-homepage.webp',
+    formated_title: 'async-javascript',
+    type: 'Frontend',
+    is_new: true
+  },
+  {
     id: 2,
     title: 'Unit Testing di Javascript',
     thumbnail: 'unit_testing_di_js/00-homepage.webp',
