@@ -36,7 +36,7 @@ import courses from '~/static/data/async_javascript.js';
 export default {
   name: 'AsyncJavascriptPage',
   head: {
-    title: `Belajar Unit Testing di Javascript Indonesia by Rizal Asrul Pambudi`,
+    title: `Belajar Asynchronous Javascript Indonesia by Rizal Asrul Pambudi`,
     meta: [
       {
         name: 'keywords',
