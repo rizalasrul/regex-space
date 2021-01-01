@@ -1,5 +1,12 @@
 export default [
   {
+    id: 13,
+    title: 'Yang patut disyukuri di 2020',
+    formated_title: 'yang-patut-disyukuri-di-2020',
+    publish_date: '01 Januari 2021',
+    is_active: true
+  },
+  {
     id: 1,
     title: 'Kemampuan yang hampir terlupakan: konsistensi',
     formated_title: 'kemampuan-yang-hampir-terlupakan-konsistensi',
